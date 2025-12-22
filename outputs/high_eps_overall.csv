@@ -1,0 +1,51 @@
+ticker,industry,strategy,mode,rank,metric_name,metric_value,industry_avg,company_name,asx_code
+MQG.AX,Financial Services,high_eps,overall,1,eps,10.98,,MACQUARIE GROUP LIMITED,MQG
+NEM.AX,Materials,high_eps,overall,2,eps,9.74,,NEWMONT CORPORATION,NEM
+RIO.AX,Materials,high_eps,overall,3,eps,9.51,,RIO TINTO LIMITED,RIO
+CSL.AX,"Pharmaceuticals, Biotechnology & Life Sciences",high_eps,overall,4,eps,9.35,,CSL LIMITED,CSL
+XYZ.AX,Financial Services,high_eps,overall,5,eps,7.53,,"BLOCK, INC.",XYZ
+LNW.AX,Consumer Services,high_eps,overall,6,eps,6.94,,LIGHT & WONDER INC.,LNW
+AAI.AX,Materials,high_eps,overall,7,eps,6.89,,ALCOA CORPORATION,AAI
+CBA.AX,Banks,high_eps,overall,8,eps,6.06,,COMMONWEALTH BANK OF AUSTRALIA.,CBA
+COH.AX,Health Care Equipment & Services,high_eps,overall,9,eps,5.95,,COCHLEAR LIMITED,COH
+REA.AX,Media & Entertainment,high_eps,overall,10,eps,5.13,,REA GROUP LTD,REA
+JBH.AX,Consumer Discretionary Distribution & Retail,high_eps,overall,11,eps,4.22,,JB HI-FI LIMITED,JBH
+BHP.AX,Materials,high_eps,overall,12,eps,2.69,,BHP GROUP LIMITED,BHP
+ASX.AX,Financial Services,high_eps,overall,13,eps,2.59,,ASX LIMITED,ASX
+DPM.AX,Materials,high_eps,overall,14,eps,2.59,,DPM METALS INC.,DPM
+WES.AX,Consumer Discretionary Distribution & Retail,high_eps,overall,15,eps,2.58,,WESFARMERS LIMITED,WES
+WDS.AX,Energy,high_eps,overall,16,eps,2.34,,WOODSIDE ENERGY GROUP LTD,WDS
+NAB.AX,Banks,high_eps,overall,17,eps,2.21,,NATIONAL AUSTRALIA BANK LIMITED,NAB
+QBE.AX,Insurance,high_eps,overall,18,eps,2.01,,QBE INSURANCE GROUP LIMITED,QBE
+WBC.AX,Banks,high_eps,overall,19,eps,1.99,,WESTPAC BANKING CORPORATION,WBC
+ANZ.AX,Banks,high_eps,overall,20,eps,1.96,,ANZ GROUP HOLDINGS LIMITED,ANZ
+ALL.AX,Consumer Services,high_eps,overall,21,eps,1.89,,ARISTOCRAT LEISURE LIMITED,ALL
+CAA.AX,Materials,high_eps,overall,22,eps,1.88,,CAPRAL LIMITED,CAA
+SFC.AX,Automobiles & Components,high_eps,overall,23,eps,1.79,,SCHAFFER CORPORATION LIMITED,SFC
+FMG.AX,Materials,high_eps,overall,24,eps,1.66,,FORTESCUE LTD,FMG
+CPU.AX,Commercial & Professional Services,high_eps,overall,25,eps,1.56,,COMPUTERSHARE LIMITED.,CPU
+AUB.AX,Insurance,high_eps,overall,26,eps,1.53,,AUB GROUP LIMITED,AUB
+XRO.AX,Software & Services,high_eps,overall,27,eps,1.49,,XERO LIMITED,XRO
+RMD.AX,Health Care Equipment & Services,high_eps,overall,28,eps,1.48,,RESMED INC,RMD
+CIN.AX,Not Applic,high_eps,overall,29,eps,1.47,,CARLTON INVESTMENTS LIMITED,CIN
+MMS.AX,Commercial & Professional Services,high_eps,overall,30,eps,1.37,,MCMILLAN SHAKESPEARE LIMITED,MMS
+CCP.AX,Financial Services,high_eps,overall,31,eps,1.37,,CREDIT CORP GROUP LIMITED,CCP
+SUN.AX,Insurance,high_eps,overall,32,eps,1.36,,SUNCORP GROUP LIMITED,SUN
+MAQ.AX,Software & Services,high_eps,overall,33,eps,1.34,,MACQUARIE TECHNOLOGY GROUP LIMITED,MAQ
+SNZ.AX,Health Care Equipment & Services,high_eps,overall,34,eps,1.34,,SUMMERSET GROUP HOLDINGS LIMITED,SNZ
+GGP.AX,Materials,high_eps,overall,35,eps,1.33,,GREATLAND RESOURCES LIMITED,GGP
+EQT.AX,Financial Services,high_eps,overall,36,eps,1.27,,EQT HOLDINGS LIMITED,EQT
+NWS.AX,Media & Entertainment,high_eps,overall,37,eps,1.26,,NEWS CORPORATION..,NWS
+PAC.AX,Financial Services,high_eps,overall,38,eps,1.25,,PACIFIC CURRENT GROUP LIMITED,PAC
+OBL.AX,Financial Services,high_eps,overall,39,eps,1.23,,OMNI BRIDGEWAY LIMITED,OBL
+APW.AX,Equity Real Estate Investment Trusts (REITs),high_eps,overall,40,eps,1.18,,AIMS PROPERTY SECURITIES FUND,APW
+ARB.AX,Automobiles & Components,high_eps,overall,41,eps,1.18,,ARB CORPORATION LIMITED.,ARB
+NEU.AX,"Pharmaceuticals, Biotechnology & Life Sciences",high_eps,overall,42,eps,1.14,,NEUREN PHARMACEUTICALS LIMITED,NEU
+NST.AX,Materials,high_eps,overall,43,eps,1.12,,NORTHERN STAR RESOURCES LTD,NST
+KOV.AX,Capital Goods,high_eps,overall,44,eps,1.11,,KORVEST LTD,KOV
+PME.AX,Health Care Equipment & Services,high_eps,overall,45,eps,1.11,,PRO MEDICUS LIMITED,PME
+SOL.AX,Financial Services,high_eps,overall,46,eps,1.11,,WASHINGTON H. SOUL PATTINSON AND COMPANY LIMITED,SOL
+SHL.AX,Health Care Equipment & Services,high_eps,overall,47,eps,1.07,,SONIC HEALTHCARE LIMITED,SHL
+LYL.AX,Capital Goods,high_eps,overall,48,eps,1.06,,LYCOPODIUM LIMITED,LYL
+ANN.AX,Health Care Equipment & Services,high_eps,overall,49,eps,1.05,,ANSELL LIMITED,ANN
+QAN.AX,Transportation,high_eps,overall,50,eps,1.04,,QANTAS AIRWAYS LIMITED,QAN

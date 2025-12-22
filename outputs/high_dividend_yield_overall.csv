@@ -1,0 +1,51 @@
+ticker,industry,strategy,mode,rank,metric_name,metric_value,industry_avg,company_name,asx_code
+OEL.AX,Energy,high_dividend_yield,overall,1,dividend_yield,131.4,,OTTO ENERGY LIMITED,OEL
+HCF.AX,Not Applic,high_dividend_yield,overall,2,dividend_yield,114.29,,H&G HIGH CONVICTION LIMITED,HCF
+MTL.AX,Materials,high_dividend_yield,overall,3,dividend_yield,100.0,,MANTLE MINERALS LIMITED,MTL
+QFE.AX,Financial Services,high_dividend_yield,overall,4,dividend_yield,100.0,,QUICKFEE LIMITED,QFE
+GTN.AX,Media & Entertainment,high_dividend_yield,overall,5,dividend_yield,86.34,,GTN LIMITED,GTN
+TER.AX,Energy,high_dividend_yield,overall,6,dividend_yield,46.51,,TERRACOM LIMITED,TER
+LVE.AX,Software & Services,high_dividend_yield,overall,7,dividend_yield,26.09,,LOVE GROUP GLOBAL LTD,LVE
+MSV.AX,Materials,high_dividend_yield,overall,8,dividend_yield,23.38,,MITCHELL SERVICES LIMITED,MSV
+STP.AX,Consumer Discretionary Distribution & Retail,high_dividend_yield,overall,9,dividend_yield,20.0,,STEP ONE CLOTHING LIMITED,STP
+AOF.AX,Equity Real Estate Investment Trusts (REITs),high_dividend_yield,overall,10,dividend_yield,17.75,,AUSTRALIAN UNITY OFFICE FUND,AOF
+EZL.AX,Financial Services,high_dividend_yield,overall,11,dividend_yield,16.2,,EUROZ HARTLEYS GROUP LIMITED,EZL
+HZN.AX,Energy,high_dividend_yield,overall,12,dividend_yield,15.38,,HORIZON OIL LIMITED,HZN
+SEQ.AX,Financial Services,high_dividend_yield,overall,13,dividend_yield,14.81,,SEQUOIA FINANCIAL GROUP LTD,SEQ
+ATP.AX,Consumer Durables & Apparel,high_dividend_yield,overall,14,dividend_yield,14.0,,ATLAS PEARLS LTD,ATP
+CUE.AX,Energy,high_dividend_yield,overall,15,dividend_yield,13.04,,CUE ENERGY RESOURCES LIMITED,CUE
+NSC.AX,Not Applic,high_dividend_yield,overall,16,dividend_yield,12.99,,NAOS SMALL CAP OPPORTUNITIES COMPANY LIMITED,NSC
+SMR.AX,Materials,high_dividend_yield,overall,17,dividend_yield,12.7,,STANMORE RESOURCES LIMITED,SMR
+IGO.AX,Materials,high_dividend_yield,overall,18,dividend_yield,12.62,,IGO LIMITED,IGO
+NDO.AX,Consumer Services,high_dividend_yield,overall,19,dividend_yield,12.59,,NIDO EDUCATION LIMITED,NDO
+TWR.AX,Insurance,high_dividend_yield,overall,20,dividend_yield,12.5,,TOWER LIMITED,TWR
+YAL.AX,Energy,high_dividend_yield,overall,21,dividend_yield,11.62,,YANCOAL AUSTRALIA LIMITED,YAL
+ECF.AX,Equity Real Estate Investment Trusts (REITs),high_dividend_yield,overall,22,dividend_yield,11.33,,ELANOR COMMERCIAL PROPERTY FUND,ECF
+CVW.AX,Insurance,high_dividend_yield,overall,23,dividend_yield,11.27,,CLEARVIEW WEALTH LIMITED,CVW
+SPK.AX,Telecommunication Services,high_dividend_yield,overall,24,dividend_yield,11.17,,SPARK NEW ZEALAND LIMITED,SPK
+IPH.AX,Commercial & Professional Services,high_dividend_yield,overall,25,dividend_yield,11.03,,IPH LIMITED,IPH
+TCF.AX,Not Applic,high_dividend_yield,overall,26,dividend_yield,11.01,,360 CAPITAL MORTGAGE REIT,TCF
+HCW.AX,Equity Real Estate Investment Trusts (REITs),high_dividend_yield,overall,27,dividend_yield,10.93,,HEALTHCO HEALTHCARE AND WELLNESS REIT,HCW
+FWD.AX,Consumer Durables & Apparel,high_dividend_yield,overall,28,dividend_yield,10.93,,FLEETWOOD LIMITED,FWD
+GQG.AX,Financial Services,high_dividend_yield,overall,29,dividend_yield,10.89,,GQG PARTNERS INC.,GQG
+BPT.AX,Energy,high_dividend_yield,overall,30,dividend_yield,10.53,,BEACH ENERGY LIMITED,BPT
+SEN.AX,Technology Hardware & Equipment,high_dividend_yield,overall,31,dividend_yield,9.94,,SENETAS CORPORATION LIMITED,SEN
+CTE.AX,"Pharmaceuticals, Biotechnology & Life Sciences",high_dividend_yield,overall,32,dividend_yield,9.88,,CRYOSITE LIMITED,CTE
+NCC.AX,Not Applic,high_dividend_yield,overall,33,dividend_yield,9.76,,NAOS EMERGING OPPORTUNITIES COMPANY LIMITED,NCC
+EVO.AX,Consumer Services,high_dividend_yield,overall,34,dividend_yield,9.68,,EMBARK EARLY EDUCATION LIMITED,EVO
+HNG.AX,Capital Goods,high_dividend_yield,overall,35,dividend_yield,9.52,,HANCOCK & GORE LTD,HNG
+ECH.AX,Energy,high_dividend_yield,overall,36,dividend_yield,9.51,,ECHELON RESOURCES LIMITED,ECH
+MMS.AX,Commercial & Professional Services,high_dividend_yield,overall,37,dividend_yield,9.16,,MCMILLAN SHAKESPEARE LIMITED,MMS
+SVR.AX,Financial Services,high_dividend_yield,overall,38,dividend_yield,9.14,,SOLVAR LIMITED,SVR
+MOT.AX,Not Applic,high_dividend_yield,overall,39,dividend_yield,9.11,,METRICS INCOME OPPORTUNITIES TRUST,MOT
+DSK.AX,Consumer Discretionary Distribution & Retail,high_dividend_yield,overall,40,dividend_yield,8.97,,DUSK GROUP LIMITED,DSK
+NAC.AX,Not Applic,high_dividend_yield,overall,41,dividend_yield,8.96,,NAOS EX-50 OPPORTUNITIES COMPANY LIMITED,NAC
+WTL.AX,Financial Services,high_dividend_yield,overall,42,dividend_yield,8.89,,WT FINANCIAL GROUP LIMITED,WTL
+KKC.AX,Not Applic,high_dividend_yield,overall,43,dividend_yield,8.79,,KKR CREDIT INCOME FUND,KKC
+CDM.AX,Not Applic,high_dividend_yield,overall,44,dividend_yield,8.76,,CADENCE CAPITAL LIMITED,CDM
+OPH.AX,Not Applic,high_dividend_yield,overall,45,dividend_yield,8.75,,OPHIR HIGH CONVICTION FUND,OPH
+IGN.AX,Commercial & Professional Services,high_dividend_yield,overall,46,dividend_yield,8.75,,IGNITE LIMITED,IGN
+WAM.AX,Not Applic,high_dividend_yield,overall,47,dividend_yield,8.71,,WAM CAPITAL LIMITED,WAM
+COF.AX,Equity Real Estate Investment Trusts (REITs),high_dividend_yield,overall,48,dividend_yield,8.71,,CENTURIA OFFICE REIT,COF
+REP.AX,Equity Real Estate Investment Trusts (REITs),high_dividend_yield,overall,49,dividend_yield,8.7,,RAM ESSENTIAL SERVICES PROPERTY FUND,REP
+LFG.AX,Financial Services,high_dividend_yield,overall,50,dividend_yield,8.66,,LIBERTY FINANCIAL GROUP,LFG

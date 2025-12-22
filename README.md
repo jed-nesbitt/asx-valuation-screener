@@ -1,59 +1,42 @@
-# ASX Relative P/E Screener
+# ASX Valuation Screener (Python)
 
-Python tool that analyzes ASX stocks, builds industry P/E benchmarks, and selects the cheapest companies relative to their sector.
+A modular Python screener for **ASX-listed companies** that pulls valuation/size/profitability metrics from **yfinance**, runs **multiple screening strategies**, and exports:
+- `tickers.csv` (tickers only)
+- `tickers_with_strategy.csv` (**wide + deduped**, one row per ticker)
+- `tickers_with_strategy_long.csv` (long/stacked)
+- per-strategy CSVs like `low_pe_absolute_overall.csv`
+- `industry_average_pe.csv` (industry pivot table across metrics)
 
----
-
-## Overview
-
-This project is a simple ASX stock screener that:
-
-1. Loads an official ASX listed companies file  
-2. Converts ASX codes into Yahoo Finance tickers  
-3. Fetches trailing/forward P/E ratios using `yfinance`  
-4. Cleans and filters out invalid P/E values  
-5. Calculates **average P/E by GICS industry group**  
-6. Finds the **N cheapest companies per industry** based on *relative P/E*  
-7. Saves:
-   - A pivot table of industry average P/E  
-   - A CSV of the selected cheapest tickers  
-
-It is designed as a lightweight, education-focused valuation tool and idea generator.
+> ⚠️ Not financial advice. This is a data tool. Always validate outputs with primary sources.
 
 ---
 
 ## Features
 
-- Automatically detects the header row in the ASX CSV
-- Converts ASX codes (e.g. `BHP`) into Yahoo Finance tickers (e.g. `BHP.AX`)
-- Uses trailing P/E and falls back to forward P/E where needed
-- Cleans P/E data:
-  - Removes `NaN`, `inf`, `-inf`
-  - Drops P/E values ≤ 0
-- Computes **industry average P/E** by GICS industry group
-- Computes **relative P/E**:  
-
-  \[
-  \text{relative P/E} = \frac{\text{company P/E}}{\text{industry average P/E}}
-  \]
-
-- Selects the **N cheapest companies per industry** (lowest relative P/E)
-- Outputs:
-  - `industry_average_pe_full_dataset.csv`
-  - `tickers.csv` (list of tickers for further analysis/backtesting)
+- Multi-file, maintainable structure
+- Progress bar for yfinance fetching
+- Multiple strategies (each runs **Top N overall** + **Top M per industry**)
+- Industry “pivot” output with averages/medians and coverage counts
+- Optional caching to speed up reruns
 
 ---
 
-## Requirements
+## Project Structure
 
-- Python 3.8+
-- Packages:
-  - `numpy`
-  - `pandas`
-  - `yfinance`
-  - `tqdm`
+## Project Structure
 
-Install dependencies:
-
-```bash
-pip install numpy pandas yfinance tqdm
+```text
+asx-valuation-screener/
+  main.py
+  config.py
+  io_asx.py
+  yf_client.py
+  metrics.py
+  strategies.py
+  industry_pivot.py
+  outputs.py
+  requirements.txt
+  data/
+    ASXListedCompanies.csv
+  outputs/
+    (generated files)

@@ -1,20 +1,29 @@
 from __future__ import annotations
 
+import json
+import platform
+import socket
+import getpass
+import time
+from datetime import datetime, timezone
+from pathlib import Path
+from uuid import uuid4
+
 import pandas as pd
 
-from config import Config
-from io_asx import load_asx_list
-from yf_client import YFClient
-from metrics import build_metrics
-from strategies import STRATEGY_FUNCS
-from outputs import (
+from src.config import Config
+from src.io_asx import load_asx_list
+from src.yf_client import YFClient
+from src.metrics import build_metrics
+from src.strategies import STRATEGY_FUNCS
+from src.outputs import (
     ensure_outdir,
     save_tickers_only,
     save_tickers_with_strategy_long,
     save_tickers_with_strategy_wide,
     save_strategy_mode_csv,
 )
-from industry_pivot import build_industry_pivot
+from src.industry_pivot import build_industry_pivot
 
 
 def _rank_results(sel: pd.DataFrame, mode: str, ascending: bool) -> pd.DataFrame:
@@ -68,88 +77,171 @@ def _add_industry_avg_for_strategy(sel: pd.DataFrame, metrics_df: pd.DataFrame) 
     return sel
 
 
+def _make_run_dir(runs_root: Path) -> tuple[Path, str]:
+    """
+    Creates outputs/runs/<timestamp>_<8charid>/ and returns (run_dir, run_id).
+    """
+    ts = datetime.now().astimezone().strftime("%Y%m%d_%H%M%S")
+    run_id = f"{ts}_{uuid4().hex[:8]}"
+    run_dir = runs_root / run_id
+    run_dir.mkdir(parents=True, exist_ok=False)
+    return run_dir, run_id
+
+
+def _write_run_metadata(run_dir: Path, metadata: dict) -> Path:
+    path = run_dir / "run_metadata.json"
+    with path.open("w", encoding="utf-8") as f:
+        json.dump(metadata, f, indent=2, sort_keys=True, default=str)
+    return path
+
+
+def _safe_cfg_dict(cfg: Config) -> dict:
+    # best-effort config serialization
+    d = dict(vars(cfg))
+    # strategies often contain objects (dataclasses); serialize them safely
+    if "strategies" in d and isinstance(d["strategies"], list):
+        d["strategies"] = [dict(vars(s)) if hasattr(s, "__dict__") else str(s) for s in d["strategies"]]
+    return d
 
 
 def main() -> None:
     cfg = Config()
+
+    # Base outputs folder stays stable (good for caches, etc.)
     ensure_outdir(cfg.out_dir)
 
-    # 1) Load ASX list
-    companies = load_asx_list(cfg.asx_listed_companies_csv, max_tickers=cfg.max_tickers)
-    tickers = companies["yf_ticker"].dropna().astype(str).tolist()
+    # Timestamped run folder lives inside outputs/runs/<run_id>/
+    runs_root = cfg.out_dir / "runs"
+    runs_root.mkdir(parents=True, exist_ok=True)
+    run_dir, run_id = _make_run_dir(runs_root)
 
-    # 2) Fetch yfinance infos (cached)
-    client = YFClient(cache_enabled=cfg.cache_enabled, cache_path=cfg.cache_path)
-    infos = client.get_infos_bulk(tickers)
-    client.save_cache()
+    t0 = time.time()
+    start_utc = datetime.now(timezone.utc).isoformat()
+    start_local = datetime.now().astimezone().isoformat()
 
-    # 3) Build metrics table
-    metrics_df = build_metrics(companies, infos)
+    metadata: dict = {
+        "run_id": run_id,
+        "status": "running",
+        "start_utc": start_utc,
+        "start_local": start_local,
+        "base_out_dir": str(cfg.out_dir),
+        "run_dir": str(run_dir),
+        "environment": {
+            "python_version": platform.python_version(),
+            "platform": platform.platform(),
+            "hostname": socket.gethostname(),
+            "user": getpass.getuser(),
+        },
+        "config": _safe_cfg_dict(cfg),
+    }
 
-    # 3.5) Save industry pivot (multi-metric)
-    industry_pivot = build_industry_pivot(metrics_df)
-    industry_pivot.to_csv(cfg.out_dir / cfg.industry_avg_pe_csv, index=False)
+    # We'll fill these later
+    output_files: list[str] = []
+    tickers: list[str] = []
+    selected_rows = 0
 
-    # 4) Run strategies: overall top N AND per-industry top M
-    all_selected: list[pd.DataFrame] = []
+    try:
+        # 1) Load ASX list
+        companies = load_asx_list(cfg.asx_listed_companies_csv, max_tickers=cfg.max_tickers)
+        tickers = companies["yf_ticker"].dropna().astype(str).tolist()
 
-    for spec in cfg.strategies:
-        if spec.name not in STRATEGY_FUNCS:
-            raise ValueError(f"Unknown strategy: {spec.name}")
+        # 2) Fetch yfinance infos (cached)
+        client = YFClient(cache_enabled=cfg.cache_enabled, cache_path=cfg.cache_path)
+        infos = client.get_infos_bulk(tickers)
+        client.save_cache()
 
-        fn = STRATEGY_FUNCS[spec.name]
+        # 3) Build metrics table
+        metrics_df = build_metrics(companies, infos)
 
-        # ---- A) Overall top N ----
-        if getattr(spec, "top_overall", None):
-            n = int(spec.top_overall)
-            if n > 0:
-                res = fn(metrics_df, mode="overall", n=n)
-                sel = res.selections.copy()
-                sel["strategy"] = spec.name
-                sel["mode"] = "overall"
-                sel = _rank_results(sel, mode="overall", ascending=res.ascending)
+        # 3.5) Save industry pivot (multi-metric)
+        industry_pivot = build_industry_pivot(metrics_df)
+        industry_pivot_path = run_dir / cfg.industry_avg_pe_csv
+        industry_pivot.to_csv(industry_pivot_path, index=False)
+        output_files.append(str(industry_pivot_path))
 
-                # (No industry_avg needed for overall; keep column for consistency)
-                sel["industry_avg"] = None
+        # 4) Run strategies: overall top N AND per-industry top M
+        all_selected: list[pd.DataFrame] = []
 
-                save_strategy_mode_csv(sel, cfg.out_dir, spec.name, "overall")
-                all_selected.append(sel)
+        for spec in cfg.strategies:
+            if spec.name not in STRATEGY_FUNCS:
+                raise ValueError(f"Unknown strategy: {spec.name}")
 
-        # ---- B) Top M per industry ----
-        if getattr(spec, "top_per_industry", None):
-            m = int(spec.top_per_industry)
-            if m > 0:
-                res = fn(metrics_df, mode="per_industry", n=m)
-                sel = res.selections.copy()
-                sel["strategy"] = spec.name
-                sel["mode"] = "per_industry"
-                sel = _rank_results(sel, mode="per_industry", ascending=res.ascending)
+            fn = STRATEGY_FUNCS[spec.name]
 
-                # NEW: add industry average column for this strategy
-                sel = _add_industry_avg_for_strategy(sel, metrics_df)
+            # ---- A) Overall top N ----
+            if getattr(spec, "top_overall", None):
+                n = int(spec.top_overall)
+                if n > 0:
+                    res = fn(metrics_df, mode="overall", n=n)
+                    sel = res.selections.copy()
+                    sel["strategy"] = spec.name
+                    sel["mode"] = "overall"
+                    sel = _rank_results(sel, mode="overall", ascending=res.ascending)
 
-                save_strategy_mode_csv(sel, cfg.out_dir, spec.name, "per_industry")
-                all_selected.append(sel)
+                    # (No industry_avg needed for overall; keep column for consistency)
+                    sel["industry_avg"] = None
 
-    selected = pd.concat(all_selected, ignore_index=True) if all_selected else pd.DataFrame()
+                    save_strategy_mode_csv(sel, run_dir, spec.name, "overall")
+                    all_selected.append(sel)
 
-    # 5) Outputs
-    save_tickers_only(selected, cfg.out_dir / cfg.tickers_only_csv)
+            # ---- B) Top M per industry ----
+            if getattr(spec, "top_per_industry", None):
+                m = int(spec.top_per_industry)
+                if m > 0:
+                    res = fn(metrics_df, mode="per_industry", n=m)
+                    sel = res.selections.copy()
+                    sel["strategy"] = spec.name
+                    sel["mode"] = "per_industry"
+                    sel = _rank_results(sel, mode="per_industry", ascending=res.ascending)
 
-    # Long combined (your current one)
-    long_path = cfg.out_dir / "tickers_with_strategy_long.csv"
-    save_tickers_with_strategy_long(selected, long_path)
+                    # add industry average column for this strategy
+                    sel = _add_industry_avg_for_strategy(sel, metrics_df)
 
-    # Wide combined (NO repeated tickers) -> keep the original name
-    wide_path = cfg.out_dir / cfg.tickers_with_strategy_csv
-    save_tickers_with_strategy_wide(selected, wide_path)
+                    save_strategy_mode_csv(sel, run_dir, spec.name, "per_industry")
+                    all_selected.append(sel)
 
-    print("\nDone.")
-    print(f"- Saved industry pivot: {cfg.out_dir / cfg.industry_avg_pe_csv}")
-    print(f"- Saved tickers only:   {cfg.out_dir / cfg.tickers_only_csv}")
-    print(f"- Saved combined (long): {long_path}")
-    print(f"- Saved combined (wide, dedup): {wide_path}")
-    print(f"- Saved per-strategy files in: {cfg.out_dir}")
+        selected = pd.concat(all_selected, ignore_index=True) if all_selected else pd.DataFrame()
+        selected_rows = int(len(selected))
+
+        # 5) Outputs
+        tickers_only_path = run_dir / cfg.tickers_only_csv
+        save_tickers_only(selected, tickers_only_path)
+        output_files.append(str(tickers_only_path))
+
+        long_path = run_dir / "tickers_with_strategy_long.csv"
+        save_tickers_with_strategy_long(selected, long_path)
+        output_files.append(str(long_path))
+
+        wide_path = run_dir / cfg.tickers_with_strategy_csv
+        save_tickers_with_strategy_wide(selected, wide_path)
+        output_files.append(str(wide_path))
+
+        metadata["status"] = "success"
+
+        print("\nDone.")
+        print(f"- Run folder:           {run_dir}")
+        print(f"- Saved industry pivot: {industry_pivot_path}")
+        print(f"- Saved tickers only:   {tickers_only_path}")
+        print(f"- Saved combined (long): {long_path}")
+        print(f"- Saved combined (wide, dedup): {wide_path}")
+        print(f"- Saved per-strategy files in: {run_dir}")
+
+    except Exception as e:
+        metadata["status"] = "error"
+        metadata["error"] = {"type": type(e).__name__, "message": str(e)}
+        raise
+
+    finally:
+        metadata["end_utc"] = datetime.now(timezone.utc).isoformat()
+        metadata["duration_seconds"] = round(time.time() - t0, 3)
+        metadata["counts"] = {
+            "tickers_loaded": int(len(tickers)),
+            "selected_rows": int(selected_rows),
+        }
+        metadata["output_files"] = output_files
+
+        meta_path = _write_run_metadata(run_dir, metadata)
+        print(f"- Saved run metadata:   {meta_path}")
 
 
 if __name__ == "__main__":

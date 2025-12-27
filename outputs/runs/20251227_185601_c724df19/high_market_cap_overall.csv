@@ -1,0 +1,51 @@
+ticker,industry,strategy,mode,rank,metric_name,metric_value,industry_avg,company_name,asx_code
+AFT.AX,Not Applic,high_market_cap,overall,1,market_cap,1647536569843712.0,,AFG 2023-1 TRUST IN RESPECT OF SERIES 2023-1,AFT
+CBA.AX,Banks,high_market_cap,overall,2,market_cap,269843873792.0,,COMMONWEALTH BANK OF AUSTRALIA.,CBA
+RIO.AX,Materials,high_market_cap,overall,3,market_cap,239761031168.0,,RIO TINTO LIMITED,RIO
+BHP.AX,Materials,high_market_cap,overall,4,market_cap,231668006912.0,,BHP GROUP LIMITED,BHP
+NEM.AX,Materials,high_market_cap,overall,5,market_cap,177805590528.0,,NEWMONT CORPORATION,NEM
+WBC.AX,Banks,high_market_cap,overall,6,market_cap,133795659776.0,,WESTPAC BANKING CORPORATION,WBC
+NAB.AX,Banks,high_market_cap,overall,7,market_cap,129647763456.0,,NATIONAL AUSTRALIA BANK LIMITED,NAB
+ANZ.AX,Banks,high_market_cap,overall,8,market_cap,108310192128.0,,ANZ GROUP HOLDINGS LIMITED,ANZ
+WES.AX,Consumer Discretionary Distribution & Retail,high_market_cap,overall,9,market_cap,92593651712.0,,WESFARMERS LIMITED,WES
+CSL.AX,"Pharmaceuticals, Biotechnology & Life Sciences",high_market_cap,overall,10,market_cap,83193757696.0,,CSL LIMITED,CSL
+MQG.AX,Financial Services,high_market_cap,overall,11,market_cap,78970585088.0,,MACQUARIE GROUP LIMITED,MQG
+FMG.AX,Materials,high_market_cap,overall,12,market_cap,68630130688.0,,FORTESCUE LTD,FMG
+GMG.AX,Equity Real Estate Investment Trusts (REITs),high_market_cap,overall,13,market_cap,64717701120.0,,GOODMAN GROUP,GMG
+XYZ.AX,Financial Services,high_market_cap,overall,14,market_cap,60112273408.0,,"BLOCK, INC.",XYZ
+TLS.AX,Telecommunication Services,high_market_cap,overall,15,market_cap,54586445824.0,,TELSTRA GROUP LIMITED,TLS
+RMD.AX,Health Care Equipment & Services,high_market_cap,overall,16,market_cap,52868993024.0,,RESMED INC,RMD
+TCL.AX,Transportation,high_market_cap,overall,17,market_cap,45039886336.0,,TRANSURBAN GROUP,TCL
+WDS.AX,Energy,high_market_cap,overall,18,market_cap,44029480960.0,,WOODSIDE ENERGY GROUP LTD,WDS
+NST.AX,Materials,high_market_cap,overall,19,market_cap,38644162560.0,,NORTHERN STAR RESOURCES LTD,NST
+WOW.AX,Consumer Staples Distribution & Retail,high_market_cap,overall,20,market_cap,35792855040.0,,WOOLWORTHS GROUP LIMITED,WOW
+ALL.AX,Consumer Services,high_market_cap,overall,21,market_cap,35500974080.0,,ARISTOCRAT LEISURE LIMITED,ALL
+SIG.AX,Health Care Equipment & Services,high_market_cap,overall,22,market_cap,34273763328.0,,SIGMA HEALTHCARE LIMITED,SIG
+BXB.AX,Commercial & Professional Services,high_market_cap,overall,23,market_cap,31071621120.0,,BRAMBLES LIMITED,BXB
+QBE.AX,Insurance,high_market_cap,overall,24,market_cap,29781082112.0,,QBE INSURANCE GROUP LIMITED,QBE
+AMC.AX,Materials,high_market_cap,overall,25,market_cap,28712837120.0,,AMCOR PLC,AMC
+COL.AX,Consumer Staples Distribution & Retail,high_market_cap,overall,26,market_cap,28587548672.0,,COLES GROUP LIMITED.,COL
+EVN.AX,Materials,high_market_cap,overall,27,market_cap,26276239360.0,,EVOLUTION MINING LIMITED,EVN
+NWS.AX,Media & Entertainment,high_market_cap,overall,28,market_cap,25001052160.0,,NEWS CORPORATION..,NWS
+REA.AX,Media & Entertainment,high_market_cap,overall,29,market_cap,24355809280.0,,REA GROUP LTD,REA
+PME.AX,Health Care Equipment & Services,high_market_cap,overall,30,market_cap,23586004992.0,,PRO MEDICUS LIMITED,PME
+WTC.AX,Software & Services,high_market_cap,overall,31,market_cap,23108923392.0,,WISETECH GLOBAL LIMITED,WTC
+AAI.AX,Materials,high_market_cap,overall,32,market_cap,22657132544.0,,ALCOA CORPORATION,AAI
+SCG.AX,Equity Real Estate Investment Trusts (REITs),high_market_cap,overall,33,market_cap,21856788480.0,,SCENTRE GROUP,SCG
+CPU.AX,Commercial & Professional Services,high_market_cap,overall,34,market_cap,20114952192.0,,COMPUTERSHARE LIMITED.,CPU
+STO.AX,Energy,high_market_cap,overall,35,market_cap,19811414016.0,,SANTOS LIMITED,STO
+XRO.AX,Software & Services,high_market_cap,overall,36,market_cap,19568910336.0,,XERO LIMITED,XRO
+ORG.AX,Utilities,high_market_cap,overall,37,market_cap,19518730240.0,,ORIGIN ENERGY LIMITED,ORG
+FPH.AX,Health Care Equipment & Services,high_market_cap,overall,38,market_cap,19256348672.0,,FISHER & PAYKEL HEALTHCARE CORPORATION LIMITED,FPH
+SGH.AX,Capital Goods,high_market_cap,overall,39,market_cap,19177754624.0,,SGH LIMITED,SGH
+SUN.AX,Insurance,high_market_cap,overall,40,market_cap,19157696512.0,,SUNCORP GROUP LIMITED,SUN
+IAG.AX,Insurance,high_market_cap,overall,41,market_cap,18756700160.0,,INSURANCE AUSTRALIA GROUP LIMITED,IAG
+JHX.AX,Materials,high_market_cap,overall,42,market_cap,17708462080.0,,JAMES HARDIE INDUSTRIES PLC,JHX
+COH.AX,Health Care Equipment & Services,high_market_cap,overall,43,market_cap,17132435456.0,,COCHLEAR LIMITED,COH
+S32.AX,Materials,high_market_cap,overall,44,market_cap,15729463296.0,,SOUTH32 LIMITED,S32
+QAN.AX,Transportation,high_market_cap,overall,45,market_cap,15555687424.0,,QANTAS AIRWAYS LIMITED,QAN
+SGP.AX,Equity Real Estate Investment Trusts (REITs),high_market_cap,overall,46,market_cap,14170858496.0,,STOCKLAND,SGP
+PLS.AX,Materials,high_market_cap,overall,47,market_cap,14107337728.0,,PLS GROUP LIMITED,PLS
+SOL.AX,Financial Services,high_market_cap,overall,48,market_cap,13806281728.0,,WASHINGTON H. SOUL PATTINSON AND COMPANY LIMITED,SOL
+LNW.AX,Consumer Services,high_market_cap,overall,49,market_cap,13429537792.0,,LIGHT & WONDER INC.,LNW
+MPL.AX,Insurance,high_market_cap,overall,50,market_cap,13136594944.0,,MEDIBANK PRIVATE LIMITED,MPL

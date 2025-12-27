@@ -1,0 +1,237 @@
+ticker,industry,high_dividend_yield_overall_rank,high_dividend_yield_per_industry_rank,high_eps_overall_rank,high_eps_per_industry_rank,high_market_cap_overall_rank,high_market_cap_per_industry_rank,low_pe_absolute_overall_rank,low_pe_absolute_per_industry_rank,low_pe_relative_industry_overall_rank,low_pe_relative_industry_per_industry_rank,high_dividend_yield_overall_value,high_dividend_yield_per_industry_value,high_eps_overall_value,high_eps_per_industry_value,high_market_cap_overall_value,high_market_cap_per_industry_value,low_pe_absolute_overall_value,low_pe_absolute_per_industry_value,low_pe_relative_industry_overall_value,low_pe_relative_industry_per_industry_value,selected_in
+4DS.AX,Semiconductors & Semiconductor Equipment,,,,1.0,,,,,,,,,,-0.01,,,,,,,high_eps_per_industry
+A1N.AX,Media & Entertainment,,,,,,,,2.0,,2.0,,,,,,,,6.3227954,,0.22868559212289696,"low_pe_absolute_per_industry, low_pe_relative_industry_per_industry"
+A2M.AX,"Food, Beverage & Tobacco",,,,,,1.0,,,,,,,,,,6697177088.0,,,,,high_market_cap_per_industry
+AAI.AX,Materials,,,7.0,,32.0,,,,,,,,6.83,,22657132544.0,,,,,,"high_eps_overall, high_market_cap_overall"
+AAL.AX,Capital Goods,50.0,2.0,,,,,,,,,8.4,8.4,,,,,,,,,"high_dividend_yield_overall, high_dividend_yield_per_industry"
+ACU.AX,Real Estate Management & Development,,,,,,,,2.0,,2.0,,,,,,,,7.5000005,,0.32842837682358894,"low_pe_absolute_per_industry, low_pe_relative_industry_per_industry"
+ADN.AX,Materials,,,,,,,,,40.0,,,,,,,,,,0.05388759071755498,,low_pe_relative_industry_overall
+AEM.AX,Class Pend,,,,,,2.0,,,,,,,,,,501456640.0,,,,,high_market_cap_per_industry
+AEU.AX,Materials,,,,,,,,,48.0,,,,,,,,,,0.07383635944140526,,low_pe_relative_industry_overall
+AFA.AX,Financial Services,,,,,,,35.0,,49.0,,,,,,,,1.6,,0.07451927765048544,,"low_pe_absolute_overall, low_pe_relative_industry_overall"
+AFI.AX,Not Applic,,,,,,2.0,,,,,,,,,,8958832640.0,,,,,high_market_cap_per_industry
+AFT.AX,Not Applic,,,,,1.0,1.0,,,,,,,,,1647536569843712.0,1647536569843712.0,,,,,"high_market_cap_overall, high_market_cap_per_industry"
+AGL.AX,Utilities,,,,,,,,2.0,,2.0,,,,,,,,10.194472,,0.20274366271955283,"low_pe_absolute_per_industry, low_pe_relative_industry_per_industry"
+AGY.AX,Materials,,,,,,,,,43.0,,,,,,,,,,0.06476873635210988,,low_pe_relative_industry_overall
+AIQ.AX,Not Applic,,,,,,,,1.0,,1.0,,,,,,,,2.6727273,,0.1490238746341772,"low_pe_absolute_per_industry, low_pe_relative_industry_per_industry"
+AJX.AX,Materials,,,,,,,18.0,,13.0,,,,,,,,0.6,,0.012435597379605097,,"low_pe_absolute_overall, low_pe_relative_industry_overall"
+ALL.AX,Consumer Services,,,21.0,2.0,21.0,1.0,,,,,,,1.89,1.89,35500974080.0,35500974080.0,,,,,"high_eps_overall, high_eps_per_industry, high_market_cap_overall, high_market_cap_per_industry"
+ALX.AX,Transportation,,1.0,,,,,,,,,,8.06,,,,,,,,,high_dividend_yield_per_industry
+AMC.AX,Materials,,,,,25.0,,,,,,,,,,28712837120.0,,,,,,high_market_cap_overall
+AMS.AX,Consumer Durables & Apparel,,,,,,,29.0,1.0,,1.0,,,,,,,1.3000001,1.3000001,,0.09196547537716945,"low_pe_absolute_overall, low_pe_absolute_per_industry, low_pe_relative_industry_per_industry"
+ANN.AX,Health Care Equipment & Services,,,49.0,,,,,,,,,,1.04,,,,,,,,high_eps_overall
+ANR.AX,"Pharmaceuticals, Biotechnology & Life Sciences",,,,,,,19.0,,16.0,,,,,,,,0.6,,0.015843823682187404,,"low_pe_absolute_overall, low_pe_relative_industry_overall"
+ANZ.AX,Banks,,,20.0,,8.0,,,,,,,,1.96,,108310192128.0,,,,,,"high_eps_overall, high_market_cap_overall"
+AOF.AX,Equity Real Estate Investment Trusts (REITs),10.0,1.0,,,,,,,,,17.75,17.75,,,,,,,,,"high_dividend_yield_overall, high_dividend_yield_per_industry"
+AOV.AX,Automobiles & Components,,1.0,,,,2.0,,,,,,5.02,,,,1172525696.0,,,,,"high_dividend_yield_per_industry, high_market_cap_per_industry"
+APA.AX,Utilities,,2.0,,,,,,,,,,6.16,,,,,,,,,high_dividend_yield_per_industry
+APW.AX,Equity Real Estate Investment Trusts (REITs),,,41.0,1.0,,,,1.0,,1.0,,,1.18,1.18,,,,2.6271186,,0.11149491517989983,"high_eps_overall, high_eps_per_industry, low_pe_absolute_per_industry, low_pe_relative_industry_per_industry"
+AQZ.AX,Transportation,,,,,,,,1.0,,1.0,,,,,,,,3.4583333,,0.09178586863434243,"low_pe_absolute_per_industry, low_pe_relative_industry_per_industry"
+ARB.AX,Automobiles & Components,,,40.0,2.0,,1.0,,,,,,,1.18,1.18,,2657221632.0,,,,,"high_eps_overall, high_eps_per_industry, high_market_cap_per_industry"
+ASK.AX,Equity Real Estate Investment Trusts (REITs),,,,,,,,2.0,,2.0,,,,,,,,7.022727,,0.2980445386807403,"low_pe_absolute_per_industry, low_pe_relative_industry_per_industry"
+ASX.AX,Financial Services,,,13.0,,,,,,,,,,2.59,,,,,,,,high_eps_overall
+ATP.AX,Consumer Durables & Apparel,13.0,1.0,,,,,,2.0,,2.0,14.36,14.36,,,,,,3.8999999,,0.2758963978344412,"high_dividend_yield_overall, high_dividend_yield_per_industry, low_pe_absolute_per_industry, low_pe_relative_industry_per_industry"
+AUB.AX,Insurance,,,26.0,2.0,,,,,,,,,1.53,1.53,,,,,,,"high_eps_overall, high_eps_per_industry"
+AVD.AX,Commercial & Professional Services,,,,,,,32.0,2.0,39.0,2.0,,,,,,,1.5555555,1.5555555,0.053138015288281736,0.053138015288281736,"low_pe_absolute_overall, low_pe_absolute_per_industry, low_pe_relative_industry_overall, low_pe_relative_industry_per_industry"
+AXE.AX,Semiconductors & Semiconductor Equipment,,,,2.0,,2.0,,,,,,,,-0.03,,86647984.0,,,,,"high_eps_per_industry, high_market_cap_per_industry"
+AZ9.AX,Materials,,,,,,,25.0,,21.0,,,,,,,,1.1,,0.02279859519594268,,"low_pe_absolute_overall, low_pe_relative_industry_overall"
+BCB.AX,Materials,,,,,,,15.0,,11.0,,,,,,,,0.5156766,,0.010687910959472777,,"low_pe_absolute_overall, low_pe_relative_industry_overall"
+BCC.AX,Technology Hardware & Equipment,,,,,,,44.0,,,,,,,,,,2.0500002,,,,low_pe_absolute_overall
+BDM.AX,Materials,,,,,,,9.0,,8.0,,,,,,,,0.28333336,,0.005872365981951178,,"low_pe_absolute_overall, low_pe_relative_industry_overall"
+BFL.AX,Banks,,1.0,,,,,,2.0,,2.0,,7.49,,,,,,10.0,,0.4906641806784325,"high_dividend_yield_per_industry, low_pe_absolute_per_industry, low_pe_relative_industry_per_industry"
+BHP.AX,Materials,,,12.0,,4.0,2.0,,,,,,,2.66,,231668006912.0,231668006912.0,,,,,"high_eps_overall, high_market_cap_overall, high_market_cap_per_industry"
+BIO.AX,Household & Personal Products,,,,2.0,,1.0,,,,,,,,0.0,,95721968.0,,,,,"high_eps_per_industry, high_market_cap_per_industry"
+BKT.AX,Materials,,,,,,,30.0,,26.0,,,,,,,,1.4000001,,0.02901639595834479,,"low_pe_absolute_overall, low_pe_relative_industry_overall"
+BNL.AX,Energy,,,,,,,10.0,1.0,15.0,1.0,,,,,,,0.3,0.3,0.013600274999549349,0.013600274999549349,"low_pe_absolute_overall, low_pe_absolute_per_industry, low_pe_relative_industry_overall, low_pe_relative_industry_per_industry"
+BOL.AX,Capital Goods,,,,,,,,2.0,,2.0,,,,,,,,3.0,,0.09892973187127288,"low_pe_absolute_per_industry, low_pe_relative_industry_per_industry"
+BPH.AX,Financial Services,,,,,,,24.0,1.0,35.0,1.0,,,,,,,1.0,1.0,0.04657454853155339,0.04657454853155339,"low_pe_absolute_overall, low_pe_absolute_per_industry, low_pe_relative_industry_overall, low_pe_relative_industry_per_industry"
+BPT.AX,Energy,30.0,,,,,,,,,,10.34,,,,,,,,,,high_dividend_yield_overall
+BRG.AX,Consumer Durables & Apparel,,,,1.0,,1.0,,,,,,,,0.93,,4321861120.0,,,,,"high_eps_per_industry, high_market_cap_per_industry"
+BSX.AX,Materials,,,,,,,21.0,,19.0,,,,,,,,0.92,,0.01906791598206115,,"low_pe_absolute_overall, low_pe_relative_industry_overall"
+BXB.AX,Commercial & Professional Services,,,,,23.0,1.0,,,,,,,,,31071621120.0,31071621120.0,,,,,"high_market_cap_overall, high_market_cap_per_industry"
+BXN.AX,Household & Personal Products,,,,,,2.0,,,,,,,,,,93468008.0,,,,,high_market_cap_per_industry
+CAA.AX,Materials,,,22.0,,,,,,,,,,1.88,,,,,,,,high_eps_overall
+CAN.AX,"Pharmaceuticals, Biotechnology & Life Sciences",,,,,,,4.0,1.0,4.0,1.0,,,,,,,0.029999997,0.029999997,0.0007921911048902519,0.0007921911048902519,"low_pe_absolute_overall, low_pe_absolute_per_industry, low_pe_relative_industry_overall, low_pe_relative_industry_per_industry"
+CBA.AX,Banks,,,8.0,1.0,2.0,1.0,,,,,,,6.05,6.05,269843873792.0,269843873792.0,,,,,"high_eps_overall, high_eps_per_industry, high_market_cap_overall, high_market_cap_per_industry"
+CCG.AX,Telecommunication Services,,2.0,,,,,,1.0,29.0,1.0,,7.51,,,,,,6.6,0.03556831210759664,0.03556831210759664,"high_dividend_yield_per_industry, low_pe_absolute_per_industry, low_pe_relative_industry_overall, low_pe_relative_industry_per_industry"
+CCP.AX,Financial Services,,,30.0,,,,,,,,,,1.37,,,,,,,,high_eps_overall
+CDA.AX,Technology Hardware & Equipment,,,,1.0,,1.0,,,,,,,,0.57,,5285108224.0,,,,,"high_eps_per_industry, high_market_cap_per_industry"
+CDM.AX,Not Applic,47.0,,,,,,,,,,8.51,,,,,,,,,,high_dividend_yield_overall
+CEN.AX,Utilities,,,,2.0,,,,,,,,,,0.36,,,,,,,high_eps_per_industry
+CIN.AX,Not Applic,,,29.0,1.0,,,,,,,,,1.47,1.47,,,,,,,"high_eps_overall, high_eps_per_industry"
+CLG.AX,Commercial & Professional Services,,,,,,,23.0,1.0,27.0,1.0,,,,,,,0.952931,0.952931,0.032552269621159514,0.032552269621159514,"low_pe_absolute_overall, low_pe_absolute_per_industry, low_pe_relative_industry_overall, low_pe_relative_industry_per_industry"
+CLZ.AX,Materials,,,,,,,1.0,1.0,1.0,1.0,,,,,,,0.0018181818,0.0018181818,3.7683628046209465e-05,3.7683628046209465e-05,"low_pe_absolute_overall, low_pe_absolute_per_industry, low_pe_relative_industry_overall, low_pe_relative_industry_per_industry"
+COF.AX,Equity Real Estate Investment Trusts (REITs),42.0,,,,,,,,,,8.94,,,,,,,,,,high_dividend_yield_overall
+COH.AX,Health Care Equipment & Services,,,9.0,1.0,43.0,,,,,,,,5.95,5.95,17132435456.0,,,,,,"high_eps_overall, high_eps_per_industry, high_market_cap_overall"
+COL.AX,Consumer Staples Distribution & Retail,,,,1.0,26.0,2.0,,,,,,,,0.81,28587548672.0,28587548672.0,,,,,"high_eps_per_industry, high_market_cap_overall, high_market_cap_per_industry"
+CPU.AX,Commercial & Professional Services,,,25.0,1.0,34.0,2.0,,,,,,,1.55,1.55,20114952192.0,20114952192.0,,,,,"high_eps_overall, high_eps_per_industry, high_market_cap_overall, high_market_cap_per_industry"
+CSL.AX,"Pharmaceuticals, Biotechnology & Life Sciences",,,4.0,1.0,10.0,1.0,,,,,,,9.26,9.26,83193757696.0,83193757696.0,,,,,"high_eps_overall, high_eps_per_industry, high_market_cap_overall, high_market_cap_per_industry"
+CTE.AX,"Pharmaceuticals, Biotechnology & Life Sciences",32.0,1.0,,,,,,,,,9.88,9.88,,,,,,,,,"high_dividend_yield_overall, high_dividend_yield_per_industry"
+CUE.AX,Energy,15.0,,,,,,,,,,13.33,,,,,,,,,,high_dividend_yield_overall
+CVW.AX,Insurance,22.0,2.0,,,,,,,,,11.27,11.27,,,,,,,,,"high_dividend_yield_overall, high_dividend_yield_per_industry"
+CWP.AX,Real Estate Management & Development,,1.0,,1.0,,,,,,,,4.35,,0.57,,,,,,,"high_dividend_yield_per_industry, high_eps_per_industry"
+DAI.AX,"Food, Beverage & Tobacco",,,,,,,45.0,2.0,,2.0,,,,,,,2.064516,2.064516,,0.13728229603748407,"low_pe_absolute_overall, low_pe_absolute_per_industry, low_pe_relative_industry_per_industry"
+DCC.AX,Software & Services,,,,,,,42.0,2.0,30.0,2.0,,,,,,,2.0,2.0,0.03575887817493851,0.03575887817493851,"low_pe_absolute_overall, low_pe_absolute_per_industry, low_pe_relative_industry_overall, low_pe_relative_industry_per_industry"
+DDR.AX,Technology Hardware & Equipment,,2.0,,2.0,,2.0,,,,,,4.33,,0.46,,1837109376.0,,,,,"high_dividend_yield_per_industry, high_eps_per_industry, high_market_cap_per_industry"
+DGT.AX,Class Pend,,1.0,,1.0,,1.0,,1.0,,1.0,,3.82,,0.05228,,1527671424.0,,52.792652,,1.0,"high_dividend_yield_per_industry, high_eps_per_industry, high_market_cap_per_industry, low_pe_absolute_per_industry, low_pe_relative_industry_per_industry"
+DPM.AX,Materials,,,15.0,,,,,,,,,,2.57,,,,,,,,high_eps_overall
+DSK.AX,Consumer Discretionary Distribution & Retail,41.0,2.0,,,,,,,,,8.97,8.97,,,,,,,,,"high_dividend_yield_overall, high_dividend_yield_per_industry"
+DTI.AX,Technology Hardware & Equipment,,,,,,,17.0,2.0,25.0,2.0,,,,,,,0.55,0.55,0.028606055313145168,0.028606055313145168,"low_pe_absolute_overall, low_pe_absolute_per_industry, low_pe_relative_industry_overall, low_pe_relative_industry_per_industry"
+ECF.AX,Equity Real Estate Investment Trusts (REITs),27.0,,,,,,,,,,10.77,,,,,,,,,,high_dividend_yield_overall
+ECH.AX,Energy,35.0,,,,,,,,,,9.66,,,,,,,,,,high_dividend_yield_overall
+EDV.AX,Consumer Staples Distribution & Retail,,2.0,,,,,,2.0,,2.0,,5.11,,,,,,15.333334,,0.5858137961893783,"high_dividend_yield_per_industry, low_pe_absolute_per_industry, low_pe_relative_industry_per_industry"
+EM2.AX,Materials,,,,,,,3.0,,3.0,,,,,,,,0.02962963,,0.0006141035819777809,,"low_pe_absolute_overall, low_pe_relative_industry_overall"
+EQT.AX,Financial Services,,,36.0,,,,,,,,,,1.27,,,,,,,,high_eps_overall
+EQU.AX,Class Pend,,,,2.0,,,,,,,,,,0.0,,,,,,,high_eps_per_industry
+EVN.AX,Materials,,,,,27.0,,,,,,,,,,26276239360.0,,,,,,high_market_cap_overall
+EVO.AX,Consumer Services,34.0,2.0,,,,,,,,,9.76,9.76,,,,,,,,,"high_dividend_yield_overall, high_dividend_yield_per_industry"
+EWC.AX,Utilities,,,,,,,8.0,1.0,7.0,1.0,,,,,,,0.27647057,0.27647057,0.005498338314722188,0.005498338314722188,"low_pe_absolute_overall, low_pe_absolute_per_industry, low_pe_relative_industry_overall, low_pe_relative_industry_per_industry"
+EZL.AX,Financial Services,11.0,2.0,,,,,,,,,16.06,16.06,,,,,,,,,"high_dividend_yield_overall, high_dividend_yield_per_industry"
+FCG.AX,Health Care Equipment & Services,,,,,,,,1.0,,1.0,,,,,,,,3.7,,0.08025893951979485,"low_pe_absolute_per_industry, low_pe_relative_industry_per_industry"
+FFI.AX,"Food, Beverage & Tobacco",,,,1.0,,,,,,,,,,0.61,,,,,,,high_eps_per_industry
+FMG.AX,Materials,,,24.0,,12.0,,,,,,,,1.65,,68630130688.0,,,,,,"high_eps_overall, high_market_cap_overall"
+FPH.AX,Health Care Equipment & Services,,,,,38.0,,,,,,,,,,19256348672.0,,,,,,high_market_cap_overall
+FWD.AX,Consumer Durables & Apparel,28.0,2.0,,,,2.0,,,,,10.59,10.59,,,,236081792.0,,,,,"high_dividend_yield_overall, high_dividend_yield_per_industry, high_market_cap_per_industry"
+G6M.AX,Materials,,,,,,,,,38.0,,,,,,,,,,0.051814989081687905,,low_pe_relative_industry_overall
+GGP.AX,Materials,,,35.0,,,,,,,,,,1.33,,,,,,,,high_eps_overall
+GMG.AX,Equity Real Estate Investment Trusts (REITs),,,,2.0,13.0,1.0,,,,,,,,0.85,64717701120.0,64717701120.0,,,,,"high_eps_per_industry, high_market_cap_overall, high_market_cap_per_industry"
+GQG.AX,Financial Services,25.0,,,,,,,,,,11.01,,,,,,,,,,high_dividend_yield_overall
+GTN.AX,Media & Entertainment,5.0,1.0,,,,,,,,,86.34,86.34,,,,,,,,,"high_dividend_yield_overall, high_dividend_yield_per_industry"
+GW1.AX,Materials,,,,,,,40.0,,31.0,,,,,,,,2.0,,0.041451991265350326,,"low_pe_absolute_overall, low_pe_relative_industry_overall"
+HCF.AX,Not Applic,2.0,1.0,,,,,,,,,114.29,114.29,,,,,,,,,"high_dividend_yield_overall, high_dividend_yield_per_industry"
+HCW.AX,Equity Real Estate Investment Trusts (REITs),23.0,2.0,,,,,,,,,11.23,11.23,,,,,,,,,"high_dividend_yield_overall, high_dividend_yield_per_industry"
+HGO.AX,Materials,,,,,,,50.0,,37.0,,,,,,,,2.423543,,0.05023034163360046,,"low_pe_absolute_overall, low_pe_relative_industry_overall"
+HNG.AX,Capital Goods,40.0,1.0,,,,,,,,,9.09,9.09,,,,,,,,,"high_dividend_yield_overall, high_dividend_yield_per_industry"
+HZN.AX,Energy,12.0,,,,,,,,,,14.63,,,,,,,,,,high_dividend_yield_overall
+IAG.AX,Insurance,,,,,41.0,,,,,,,,,,18756700160.0,,,,,,high_market_cap_overall
+IDA.AX,Materials,,,,,,,7.0,,6.0,,,,,,,,0.23999998,,0.004974238537322126,,"low_pe_absolute_overall, low_pe_relative_industry_overall"
+IFT.AX,Capital Goods,,,,,,2.0,,,,,,,,,,10081124352.0,,,,,high_market_cap_per_industry
+IGN.AX,Commercial & Professional Services,33.0,2.0,,,,,,,,,9.86,9.86,,,,,,,,,"high_dividend_yield_overall, high_dividend_yield_per_industry"
+IGO.AX,Materials,19.0,,,,,,,,,,12.62,,,,,,,,,,high_dividend_yield_overall
+ILA.AX,"Pharmaceuticals, Biotechnology & Life Sciences",,,,,,,12.0,2.0,14.0,2.0,,,,,,,0.47125843,0.47125843,0.012444225789440759,0.012444225789440759,"low_pe_absolute_overall, low_pe_absolute_per_industry, low_pe_relative_industry_overall, low_pe_relative_industry_per_industry"
+ING.AX,"Food, Beverage & Tobacco",,1.0,,,,,,,,,,7.76,,,,,,,,,high_dividend_yield_per_industry
+IPH.AX,Commercial & Professional Services,29.0,1.0,,,,,,,,,10.46,10.46,,,,,,,,,"high_dividend_yield_overall, high_dividend_yield_per_industry"
+IR1.AX,Materials,,,,,,,22.0,,20.0,,,,,,,,0.95,,0.0196896958510414,,"low_pe_absolute_overall, low_pe_relative_industry_overall"
+IRD.AX,Materials,,,,,,,49.0,,36.0,,,,,,,,2.4,,0.04974238951842039,,"low_pe_absolute_overall, low_pe_relative_industry_overall"
+IRI.AX,Software & Services,,2.0,,,,,,,,,,5.97,,,,,,,,,high_dividend_yield_per_industry
+JBH.AX,Consumer Discretionary Distribution & Retail,,,11.0,1.0,,2.0,,,,,,,4.21,4.21,,10560569344.0,,,,,"high_eps_overall, high_eps_per_industry, high_market_cap_per_industry"
+JHX.AX,Materials,,,,,42.0,,,,,,,,,,17708462080.0,,,,,,high_market_cap_overall
+KBC.AX,Financial Services,,,,,,,33.0,,47.0,,,,,,,,1.5666666,,0.07296678959446375,,"low_pe_absolute_overall, low_pe_relative_industry_overall"
+KKC.AX,Not Applic,44.0,,,,,,,,,,8.71,,,,,,,,,,high_dividend_yield_overall
+KNM.AX,Media & Entertainment,,,,,,,6.0,1.0,9.0,1.0,,,,,,,0.20000002,0.20000002,0.0072336870173422396,0.0072336870173422396,"low_pe_absolute_overall, low_pe_absolute_per_industry, low_pe_relative_industry_overall, low_pe_relative_industry_per_industry"
+KOV.AX,Capital Goods,,,46.0,1.0,,,,,,,,,1.11,1.11,,,,,,,"high_eps_overall, high_eps_per_industry"
+KSL.AX,Banks,,2.0,,,,,,1.0,,1.0,,7.29,,,,,,8.75,,0.42933115809362843,"high_dividend_yield_per_industry, low_pe_absolute_per_industry, low_pe_relative_industry_per_industry"
+KSN.AX,Materials,,,,,,,47.0,,34.0,,,,,,,,2.2083333,,0.045769906331291126,,"low_pe_absolute_overall, low_pe_relative_industry_overall"
+LLC.AX,Real Estate Management & Development,,2.0,,,,1.0,,,,,,4.35,,,,3653527296.0,,,,,"high_dividend_yield_per_industry, high_market_cap_per_industry"
+LNW.AX,Consumer Services,,,6.0,1.0,49.0,2.0,,,,,,,6.87,6.87,13429537792.0,13429537792.0,,,,,"high_eps_overall, high_eps_per_industry, high_market_cap_overall, high_market_cap_per_industry"
+LSX.AX,Not Applic,,,,,,,,2.0,,2.0,,,,,,,,3.6666665,,0.20444317264291698,"low_pe_absolute_per_industry, low_pe_relative_industry_per_industry"
+LU7.AX,Materials,,,,,,,28.0,,22.0,,,,,,,,1.2,,0.024871194759210194,,"low_pe_absolute_overall, low_pe_relative_industry_overall"
+LVE.AX,Software & Services,7.0,1.0,,,,,,,,,26.09,26.09,,,,,,,,,"high_dividend_yield_overall, high_dividend_yield_per_industry"
+LYL.AX,Capital Goods,,,48.0,2.0,,,,,,,,,1.06,1.06,,,,,,,"high_eps_overall, high_eps_per_industry"
+MAQ.AX,Software & Services,,,34.0,2.0,,,,,,,,,1.34,1.34,,,,,,,"high_eps_overall, high_eps_per_industry"
+MCP.AX,Household & Personal Products,,,,,,,,2.0,,2.0,,,,,,,,3.9166667,,1.0382916110801426,"low_pe_absolute_per_industry, low_pe_relative_industry_per_industry"
+MEZ.AX,Utilities,,,,,,2.0,,,,,,,,,,12738251776.0,,,,,high_market_cap_per_industry
+MFD.AX,Consumer Services,,,,,,,,1.0,45.0,1.0,,,,,,,,3.0,0.06621444424371897,0.06621444424371897,"low_pe_absolute_per_industry, low_pe_relative_industry_overall, low_pe_relative_industry_per_industry"
+MFF.AX,Not Applic,,,,2.0,,,,,,,,,,0.74,,,,,,,high_eps_per_industry
+MM8.AX,Materials,,,,,,,,,42.0,,,,,,,,,,0.05862034073128291,,low_pe_relative_industry_overall
+MMI.AX,Materials,,,,,,,,,50.0,,,,,,,,,,0.07461358427763058,,low_pe_relative_industry_overall
+MMS.AX,Commercial & Professional Services,37.0,,31.0,2.0,,,,,,,9.13,,1.37,1.37,,,,,,,"high_dividend_yield_overall, high_eps_overall, high_eps_per_industry"
+MOT.AX,Not Applic,38.0,,,,,,,,,,9.1,,,,,,,,,,high_dividend_yield_overall
+MPL.AX,Insurance,,,,,50.0,,,,,,,,,,13136594944.0,,,,,,high_market_cap_overall
+MQG.AX,Financial Services,,,1.0,1.0,11.0,1.0,,,,,,,10.98,10.98,78970585088.0,78970585088.0,,,,,"high_eps_overall, high_eps_per_industry, high_market_cap_overall, high_market_cap_per_industry"
+MRC.AX,Materials,,,,,,,11.0,,10.0,,,,,,,,0.37142858,,0.007698227126930737,,"low_pe_absolute_overall, low_pe_relative_industry_overall"
+MSI.AX,Capital Goods,,,,,,,13.0,1.0,17.0,1.0,,,,,,,0.5,0.5,0.016488288645212148,0.016488288645212148,"low_pe_absolute_overall, low_pe_absolute_per_industry, low_pe_relative_industry_overall, low_pe_relative_industry_per_industry"
+MSV.AX,Materials,8.0,2.0,,,,,,,,,23.38,23.38,,,,,,,,,"high_dividend_yield_overall, high_dividend_yield_per_industry"
+MTL.AX,Materials,4.0,1.0,,,,,,,,,100.0,100.0,,,,,,,,,"high_dividend_yield_overall, high_dividend_yield_per_industry"
+MTS.AX,Consumer Staples Distribution & Retail,,1.0,,,,,,1.0,,1.0,,5.17,,,,,,12.653847,,0.4834433364243925,"high_dividend_yield_per_industry, low_pe_absolute_per_industry, low_pe_relative_industry_per_industry"
+MVF.AX,Health Care Equipment & Services,,1.0,,,,,,,,,,7.07,,,,,,,,,high_dividend_yield_per_industry
+MVL.AX,Materials,,,,,,,16.0,,12.0,,,,,,,,0.53333336,,0.011053864890119969,,"low_pe_absolute_overall, low_pe_relative_industry_overall"
+NAB.AX,Banks,,,17.0,2.0,7.0,,,,,,,,2.21,2.21,129647763456.0,,,,,,"high_eps_overall, high_eps_per_industry, high_market_cap_overall"
+NAC.AX,Not Applic,46.0,,,,,,,,,,8.57,,,,,,,,,,high_dividend_yield_overall
+NCC.AX,Not Applic,36.0,,,,,,,,,,9.52,,,,,,,,,,high_dividend_yield_overall
+NDO.AX,Consumer Services,16.0,1.0,,,,,,,,,13.04,13.04,,,,,,,,,"high_dividend_yield_overall, high_dividend_yield_per_industry"
+NEM.AX,Materials,,,2.0,1.0,5.0,,,,,,,,9.66,9.66,177805590528.0,,,,,,"high_eps_overall, high_eps_per_industry, high_market_cap_overall"
+NEU.AX,"Pharmaceuticals, Biotechnology & Life Sciences",,,42.0,2.0,,,,,,,,,1.14,1.14,,,,,,,"high_eps_overall, high_eps_per_industry"
+NMT.AX,Materials,,,,,,,46.0,,33.0,,,,,,,,2.1333334,,0.044215458731440054,,"low_pe_absolute_overall, low_pe_relative_industry_overall"
+NOR.AX,Software & Services,,,,,,,31.0,1.0,23.0,1.0,,,,,,,1.4000001,1.4000001,0.025031216510400862,0.025031216510400862,"low_pe_absolute_overall, low_pe_absolute_per_industry, low_pe_relative_industry_overall, low_pe_relative_industry_per_industry"
+NSC.AX,Not Applic,17.0,2.0,,,,,,,,,12.99,12.99,,,,,,,,,"high_dividend_yield_overall, high_dividend_yield_per_industry"
+NST.AX,Materials,,,43.0,,19.0,,,,,,,,1.12,,38644162560.0,,,,,,"high_eps_overall, high_market_cap_overall"
+NTD.AX,Consumer Discretionary Distribution & Retail,,,,,,,,1.0,,1.0,,,,,,,,2.875,,0.10632524938383295,"low_pe_absolute_per_industry, low_pe_relative_industry_per_industry"
+NWS.AX,Media & Entertainment,,,37.0,2.0,28.0,1.0,,,,,,,1.25,1.25,25001052160.0,25001052160.0,,,,,"high_eps_overall, high_eps_per_industry, high_market_cap_overall, high_market_cap_per_industry"
+NZM.AX,Media & Entertainment,,2.0,,,,,,,,,,7.95,,,,,,,,,high_dividend_yield_per_industry
+OBL.AX,Financial Services,,,39.0,,,,27.0,2.0,41.0,2.0,,,1.23,,,,1.1788619,1.1788619,0.05490496077354924,0.05490496077354924,"high_eps_overall, low_pe_absolute_overall, low_pe_absolute_per_industry, low_pe_relative_industry_overall, low_pe_relative_industry_per_industry"
+OEL.AX,Energy,1.0,1.0,,,,,,,,,146.0,146.0,,,,,,,,,"high_dividend_yield_overall, high_dividend_yield_per_industry"
+OEQ.AX,Financial Services,,,,,,,48.0,,,,,,,,,,2.3125,,,,low_pe_absolute_overall
+OPH.AX,Not Applic,49.0,,,,,,,,,,8.42,,,,,,,,,,high_dividend_yield_overall
+ORG.AX,Utilities,,,,1.0,37.0,1.0,,,,,,,,0.86,19518730240.0,19518730240.0,,,,,"high_eps_per_industry, high_market_cap_overall, high_market_cap_per_industry"
+PAC.AX,Financial Services,,,38.0,,,,,,,,,,1.24,,,,,,,,high_eps_overall
+PLS.AX,Materials,,,,,47.0,,,,,,,,,,14107337728.0,,,,,,high_market_cap_overall
+PME.AX,Health Care Equipment & Services,,,44.0,,30.0,,,,,,,,1.11,,23586004992.0,,,,,,"high_eps_overall, high_market_cap_overall"
+PTL.AX,Household & Personal Products,,,,,,,26.0,1.0,,1.0,,,,,,,1.15,1.15,,0.30486008746727516,"low_pe_absolute_overall, low_pe_absolute_per_industry, low_pe_relative_industry_per_industry"
+PXA.AX,Real Estate Management & Development,,,,,,2.0,,,,,,,,,,2424265216.0,,,,,high_market_cap_per_industry
+QAN.AX,Transportation,,,50.0,1.0,45.0,2.0,,,,,,,1.04,1.04,15555687424.0,15555687424.0,,,,,"high_eps_overall, high_eps_per_industry, high_market_cap_overall, high_market_cap_per_industry"
+QBE.AX,Insurance,,,19.0,1.0,24.0,1.0,,2.0,,2.0,,,1.99,1.99,29781082112.0,29781082112.0,,9.909548,,0.49355962025264066,"high_eps_overall, high_eps_per_industry, high_market_cap_overall, high_market_cap_per_industry, low_pe_absolute_per_industry, low_pe_relative_industry_per_industry"
+QFE.AX,Financial Services,3.0,1.0,,,,,,,,,100.0,100.0,,,,,,,,,"high_dividend_yield_overall, high_dividend_yield_per_industry"
+QUE.AX,Financial Services,,,,,,,39.0,,,,,,,,,,1.8666668,,,,low_pe_absolute_overall
+RAN.AX,Materials,,,,,,,5.0,,5.0,,,,,,,,0.042857144,,0.0008882569793729304,,"low_pe_absolute_overall, low_pe_relative_industry_overall"
+RCM.AX,Materials,,,,,,,43.0,,32.0,,,,,,,,2.0,,0.041451991265350326,,"low_pe_absolute_overall, low_pe_relative_industry_overall"
+REA.AX,Media & Entertainment,,,10.0,1.0,29.0,2.0,,,,,,,5.12,5.12,24355809280.0,24355809280.0,,,,,"high_eps_overall, high_eps_per_industry, high_market_cap_overall, high_market_cap_per_industry"
+REP.AX,Equity Real Estate Investment Trusts (REITs),48.0,,,,,,,,,,8.47,,,,,,,,,,high_dividend_yield_overall
+RFG.AX,Consumer Services,,,,,,,,2.0,,2.0,,,,,,,,6.7123227,,0.1481509057216664,"low_pe_absolute_per_industry, low_pe_relative_industry_per_industry"
+RIO.AX,Materials,,,3.0,2.0,3.0,1.0,,,,,,,9.43,9.43,239761031168.0,239761031168.0,,,,,"high_eps_overall, high_eps_per_industry, high_market_cap_overall, high_market_cap_per_industry"
+RMD.AX,Health Care Equipment & Services,,,28.0,2.0,16.0,1.0,,,,,,,1.47,1.47,52868993024.0,52868993024.0,,,,,"high_eps_overall, high_eps_per_industry, high_market_cap_overall, high_market_cap_per_industry"
+RPM.AX,Automobiles & Components,,,,,,,,2.0,,2.0,,,,,,,,2.6000001,,0.12766818920493098,"low_pe_absolute_per_industry, low_pe_relative_industry_per_industry"
+RTR.AX,Materials,,,,,,,36.0,,28.0,,,,,,,,1.6538461,,0.03427760704571685,,"low_pe_absolute_overall, low_pe_relative_industry_overall"
+S32.AX,Materials,,,,,44.0,,,,,,,,,,15729463296.0,,,,,,high_market_cap_overall
+S66.AX,Household & Personal Products,,1.0,,1.0,,,,,,,,1.48,,0.04,,,,,,,"high_dividend_yield_per_industry, high_eps_per_industry"
+SCG.AX,Equity Real Estate Investment Trusts (REITs),,,,,33.0,2.0,,,,,,,,,21856788480.0,21856788480.0,,,,,"high_market_cap_overall, high_market_cap_per_industry"
+SEN.AX,Technology Hardware & Equipment,31.0,1.0,,,,,,,,,10.11,10.11,,,,,,,,,"high_dividend_yield_overall, high_dividend_yield_per_industry"
+SEQ.AX,Financial Services,14.0,,,,,,,,,,14.29,,,,,,,,,,high_dividend_yield_overall
+SFC.AX,Automobiles & Components,,2.0,23.0,1.0,,,,,,,,4.5,1.79,1.79,,,,,,,"high_dividend_yield_per_industry, high_eps_overall, high_eps_per_industry"
+SFX.AX,Materials,,,,,,,,,44.0,,,,,,,,,,0.06594173651053852,,low_pe_relative_industry_overall
+SGH.AX,Capital Goods,,,,,39.0,1.0,,,,,,,,,19177754624.0,19177754624.0,,,,,"high_market_cap_overall, high_market_cap_per_industry"
+SGP.AX,Equity Real Estate Investment Trusts (REITs),,,,,46.0,,,,,,,,,,14170858496.0,,,,,,high_market_cap_overall
+SHL.AX,Health Care Equipment & Services,,2.0,47.0,,,,,,,,,4.74,1.07,,,,,,,,"high_dividend_yield_per_industry, high_eps_overall"
+SIG.AX,Health Care Equipment & Services,,,,,22.0,2.0,,,,,,,,,34273763328.0,34273763328.0,,,,,"high_market_cap_overall, high_market_cap_per_industry"
+SMR.AX,Materials,18.0,,,,,,,,,,12.75,,,,,,,,,,high_dividend_yield_overall
+SNZ.AX,Health Care Equipment & Services,,,33.0,,,,,,,,,,1.34,,,,,,,,high_eps_overall
+SOL.AX,Financial Services,,,45.0,,48.0,,,,,,,,1.11,,13806281728.0,,,,,,"high_eps_overall, high_market_cap_overall"
+SPK.AX,Telecommunication Services,24.0,1.0,,2.0,,,,2.0,,2.0,11.06,11.06,,0.12,,,,16.375,,0.08824713799422651,"high_dividend_yield_overall, high_dividend_yield_per_industry, high_eps_per_industry, low_pe_absolute_per_industry, low_pe_relative_industry_per_industry"
+SRV.AX,Real Estate Management & Development,,,,2.0,,,,,,,,,,0.53,,,,,,,high_eps_per_industry
+STO.AX,Energy,,,,,35.0,2.0,,,,,,,,,19811414016.0,19811414016.0,,,,,"high_market_cap_overall, high_market_cap_per_industry"
+STP.AX,Consumer Discretionary Distribution & Retail,9.0,1.0,,,,,,2.0,,2.0,19.43,19.43,,,,,,5.0,,0.1849134771892747,"high_dividend_yield_overall, high_dividend_yield_per_industry, low_pe_absolute_per_industry, low_pe_relative_industry_per_industry"
+SUN.AX,Insurance,,,32.0,,40.0,2.0,,,,,,,1.36,,19157696512.0,19157696512.0,,,,,"high_eps_overall, high_market_cap_overall, high_market_cap_per_industry"
+SVG.AX,Materials,,,,,,,2.0,2.0,2.0,2.0,,,,,,,0.014166667,0.014166667,0.00029361827837156337,0.00029361827837156337,"low_pe_absolute_overall, low_pe_absolute_per_industry, low_pe_relative_industry_overall, low_pe_relative_industry_per_industry"
+SVR.AX,Financial Services,39.0,,,,,,,,,,9.09,,,,,,,,,,high_dividend_yield_overall
+TCF.AX,Not Applic,26.0,,,,,,,,,,10.99,,,,,,,,,,high_dividend_yield_overall
+TCL.AX,Transportation,,,,,17.0,1.0,,,,,,,,,45039886336.0,45039886336.0,,,,,"high_market_cap_overall, high_market_cap_per_industry"
+TER.AX,Energy,6.0,2.0,,,,,,,,,46.51,46.51,,,,,,,,,"high_dividend_yield_overall, high_dividend_yield_per_industry"
+TIA.AX,Real Estate Management & Development,,,,,,,34.0,1.0,46.0,1.0,,,,,,,1.5999999,1.5999999,0.07006471133900653,0.07006471133900653,"low_pe_absolute_overall, low_pe_absolute_per_industry, low_pe_relative_industry_overall, low_pe_relative_industry_per_industry"
+TLS.AX,Telecommunication Services,,,,1.0,15.0,1.0,,,,,,,,0.19,54586445824.0,54586445824.0,,,,,"high_eps_per_industry, high_market_cap_overall, high_market_cap_per_industry"
+TLX.AX,"Pharmaceuticals, Biotechnology & Life Sciences",,,,,,2.0,,,,,,,,,,3979874304.0,,,,,high_market_cap_per_industry
+TPC.AX,Utilities,,1.0,,,,,,,,,,6.59,,,,,,,,,high_dividend_yield_per_industry
+TPG.AX,Telecommunication Services,,,,,,2.0,,,,,,,,,,7557662720.0,,,,,high_market_cap_per_industry
+TWE.AX,"Food, Beverage & Tobacco",,2.0,,2.0,,2.0,,,,,,7.42,,0.54,,4352086528.0,,,,,"high_dividend_yield_per_industry, high_eps_per_industry, high_market_cap_per_industry"
+TWR.AX,Insurance,20.0,1.0,,,,,,1.0,,1.0,12.5,12.5,,,,,,8.724999,,0.43456141421835487,"high_dividend_yield_overall, high_dividend_yield_per_industry, low_pe_absolute_per_industry, low_pe_relative_industry_per_industry"
+VBX.AX,Materials,,,,,,,20.0,,18.0,,,,,,,,0.88112193,,0.01826212927303431,,"low_pe_absolute_overall, low_pe_relative_industry_overall"
+VEN.AX,Energy,,,,,,,41.0,2.0,,2.0,,,,,,,2.0,2.0,,0.09066849999699567,"low_pe_absolute_overall, low_pe_absolute_per_industry, low_pe_relative_industry_per_industry"
+VGN.AX,Transportation,,,,2.0,,,,2.0,,2.0,,,,0.65,,,,5.4,,0.14331865891163503,"high_eps_per_industry, low_pe_absolute_per_industry, low_pe_relative_industry_per_industry"
+VIT.AX,Health Care Equipment & Services,,,,,,,,2.0,,2.0,,,,,,,,6.1000004,,0.1323188008579255,"low_pe_absolute_per_industry, low_pe_relative_industry_per_industry"
+VLS.AX,"Pharmaceuticals, Biotechnology & Life Sciences",,2.0,,,,,,,,,,3.54,,,,,,,,,high_dividend_yield_per_industry
+VMT.AX,Automobiles & Components,,,,,,,37.0,1.0,,1.0,,,,,,,1.725,1.725,,0.08470292996469729,"low_pe_absolute_overall, low_pe_absolute_per_industry, low_pe_relative_industry_per_industry"
+WAM.AX,Not Applic,43.0,,,,,,,,,,8.76,,,,,,,,,,high_dividend_yield_overall
+WAT.AX,Consumer Durables & Apparel,,,,2.0,,,,,,,,,,0.27,,,,,,,high_eps_per_industry
+WBC.AX,Banks,,,18.0,,6.0,2.0,,,,,,,1.99,,133795659776.0,133795659776.0,,,,,"high_eps_overall, high_market_cap_overall, high_market_cap_per_industry"
+WBT.AX,Semiconductors & Semiconductor Equipment,,,,,,1.0,,,,,,,,,,1027295936.0,,,,,high_market_cap_per_industry
+WDS.AX,Energy,,,16.0,1.0,18.0,1.0,,,,,,,2.32,2.32,44029480960.0,44029480960.0,,,,,"high_eps_overall, high_eps_per_industry, high_market_cap_overall, high_market_cap_per_industry"
+WES.AX,Consumer Discretionary Distribution & Retail,,,14.0,2.0,9.0,1.0,,,,,,,2.58,2.58,92593651712.0,92593651712.0,,,,,"high_eps_overall, high_eps_per_industry, high_market_cap_overall, high_market_cap_per_industry"
+WHC.AX,Energy,,,,2.0,,,,,,,,,,0.8,,,,,,,high_eps_per_industry
+WNX.AX,"Food, Beverage & Tobacco",,,,,,,38.0,1.0,,1.0,,,,,,,1.8199999,1.8199999,,0.12102292501486617,"low_pe_absolute_overall, low_pe_absolute_per_industry, low_pe_relative_industry_per_industry"
+WOW.AX,Consumer Staples Distribution & Retail,,,,2.0,20.0,1.0,,,,,,,,0.79,35792855040.0,35792855040.0,,,,,"high_eps_per_industry, high_market_cap_overall, high_market_cap_per_industry"
+WTC.AX,Software & Services,,,,,31.0,1.0,,,,,,,,,23108923392.0,23108923392.0,,,,,"high_market_cap_overall, high_market_cap_per_industry"
+WTL.AX,Financial Services,45.0,,,,,,,,,,8.57,,,,,,,,,,high_dividend_yield_overall
+WWG.AX,Transportation,,2.0,,,,,,,,,,5.45,,,,,,,,,high_dividend_yield_per_industry
+X2M.AX,Technology Hardware & Equipment,,,,,,,14.0,1.0,24.0,1.0,,,,,,,0.5,0.5,0.02600550483013197,0.02600550483013197,"low_pe_absolute_overall, low_pe_absolute_per_industry, low_pe_relative_industry_overall, low_pe_relative_industry_per_industry"
+XRO.AX,Software & Services,,,27.0,1.0,36.0,2.0,,,,,,,1.49,1.49,19568910336.0,19568910336.0,,,,,"high_eps_overall, high_eps_per_industry, high_market_cap_overall, high_market_cap_per_industry"
+XYZ.AX,Financial Services,,,5.0,2.0,14.0,2.0,,,,,,,7.47,7.47,60112273408.0,60112273408.0,,,,,"high_eps_overall, high_eps_per_industry, high_market_cap_overall, high_market_cap_per_industry"
+YAL.AX,Energy,21.0,,,,,,,,,,11.78,,,,,,,,,,high_dividend_yield_overall

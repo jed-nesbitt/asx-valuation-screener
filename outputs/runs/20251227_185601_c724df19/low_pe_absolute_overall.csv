@@ -1,0 +1,51 @@
+ticker,industry,strategy,mode,rank,metric_name,metric_value,industry_avg,company_name,asx_code
+CLZ.AX,Materials,low_pe_absolute,overall,1,pe,0.0018181818,,CLASSIC MINERALS LTD,CLZ
+SVG.AX,Materials,low_pe_absolute,overall,2,pe,0.014166667,,SAVANNAH GOLDFIELDS LIMITED,SVG
+EM2.AX,Materials,low_pe_absolute,overall,3,pe,0.02962963,,EAGLE MOUNTAIN MINING LIMITED,EM2
+CAN.AX,"Pharmaceuticals, Biotechnology & Life Sciences",low_pe_absolute,overall,4,pe,0.029999997,,CANN GROUP LIMITED,CAN
+RAN.AX,Materials,low_pe_absolute,overall,5,pe,0.042857144,,RANGE INTERNATIONAL LIMITED,RAN
+KNM.AX,Media & Entertainment,low_pe_absolute,overall,6,pe,0.20000002,,KNEOMEDIA LIMITED,KNM
+IDA.AX,Materials,low_pe_absolute,overall,7,pe,0.23999998,,INDIANA RESOURCES LIMITED,IDA
+EWC.AX,Utilities,low_pe_absolute,overall,8,pe,0.27647057,,ENERGY WORLD CORPORATION LTD,EWC
+BDM.AX,Materials,low_pe_absolute,overall,9,pe,0.28333336,,BURGUNDY DIAMOND MINES LIMITED,BDM
+BNL.AX,Energy,low_pe_absolute,overall,10,pe,0.3,,BLUE STAR HELIUM LIMITED,BNL
+MRC.AX,Materials,low_pe_absolute,overall,11,pe,0.37142858,,MINERAL COMMODITIES LTD,MRC
+ILA.AX,"Pharmaceuticals, Biotechnology & Life Sciences",low_pe_absolute,overall,12,pe,0.47125843,,ISLAND PHARMACEUTICALS LIMITED,ILA
+MSI.AX,Capital Goods,low_pe_absolute,overall,13,pe,0.5,,MULTISTACK INTERNATIONAL LIMITED,MSI
+X2M.AX,Technology Hardware & Equipment,low_pe_absolute,overall,14,pe,0.5,,X2M CONNECT LIMITED,X2M
+BCB.AX,Materials,low_pe_absolute,overall,15,pe,0.5156766,,BOWEN COKING COAL LIMITED,BCB
+MVL.AX,Materials,low_pe_absolute,overall,16,pe,0.53333336,,MARVEL GOLD LIMITED,MVL
+DTI.AX,Technology Hardware & Equipment,low_pe_absolute,overall,17,pe,0.55,,DTI GROUP LTD,DTI
+AJX.AX,Materials,low_pe_absolute,overall,18,pe,0.6,,ALEXIUM INTERNATIONAL GROUP LIMITED,AJX
+ANR.AX,"Pharmaceuticals, Biotechnology & Life Sciences",low_pe_absolute,overall,19,pe,0.6,,ANATARA LIFESCIENCES LTD,ANR
+VBX.AX,Materials,low_pe_absolute,overall,20,pe,0.88112193,,VBX LIMITED,VBX
+BSX.AX,Materials,low_pe_absolute,overall,21,pe,0.92,,BLACKSTONE MINERALS LIMITED,BSX
+IR1.AX,Materials,low_pe_absolute,overall,22,pe,0.95,,IRIS METALS LIMITED,IR1
+CLG.AX,Commercial & Professional Services,low_pe_absolute,overall,23,pe,0.952931,,CLOSE THE LOOP LTD.,CLG
+BPH.AX,Financial Services,low_pe_absolute,overall,24,pe,1.0,,BPH ENERGY LTD,BPH
+AZ9.AX,Materials,low_pe_absolute,overall,25,pe,1.1,,ASIAN BATTERY METALS PLC,AZ9
+PTL.AX,Household & Personal Products,low_pe_absolute,overall,26,pe,1.15,,PRESTAL HOLDINGS LIMITED,PTL
+OBL.AX,Financial Services,low_pe_absolute,overall,27,pe,1.1788619,,OMNI BRIDGEWAY LIMITED,OBL
+LU7.AX,Materials,low_pe_absolute,overall,28,pe,1.2,,LITHIUM UNIVERSE LIMITED,LU7
+AMS.AX,Consumer Durables & Apparel,low_pe_absolute,overall,29,pe,1.3000001,,ATOMOS LIMITED,AMS
+BKT.AX,Materials,low_pe_absolute,overall,30,pe,1.4000001,,BLACK ROCK MINING LIMITED,BKT
+NOR.AX,Software & Services,low_pe_absolute,overall,31,pe,1.4000001,,NORWOOD SYSTEMS LIMITED,NOR
+AVD.AX,Commercial & Professional Services,low_pe_absolute,overall,32,pe,1.5555555,,AVADA GROUP LIMITED,AVD
+KBC.AX,Financial Services,low_pe_absolute,overall,33,pe,1.5666666,,KEYBRIDGE CAPITAL LIMITED,KBC
+TIA.AX,Real Estate Management & Development,low_pe_absolute,overall,34,pe,1.5999999,,TIAN AN AUSTRALIA LIMITED,TIA
+AFA.AX,Financial Services,low_pe_absolute,overall,35,pe,1.6,,ASF GROUP LIMITED,AFA
+RTR.AX,Materials,low_pe_absolute,overall,36,pe,1.6538461,,RUMBLE RESOURCES LIMITED,RTR
+VMT.AX,Automobiles & Components,low_pe_absolute,overall,37,pe,1.725,,VMOTO LIMITED,VMT
+WNX.AX,"Food, Beverage & Tobacco",low_pe_absolute,overall,38,pe,1.8199999,,WELLNEX LIFE LIMITED,WNX
+QUE.AX,Financial Services,low_pe_absolute,overall,39,pe,1.8666668,,QUESTE COMMUNICATIONS LIMITED,QUE
+GW1.AX,Materials,low_pe_absolute,overall,40,pe,2.0,,GREENWING RESOURCES LTD,GW1
+VEN.AX,Energy,low_pe_absolute,overall,41,pe,2.0,,VINTAGE ENERGY LTD,VEN
+DCC.AX,Software & Services,low_pe_absolute,overall,42,pe,2.0,,DIGITALX LIMITED,DCC
+RCM.AX,Materials,low_pe_absolute,overall,43,pe,2.0,,RAPID CRITICAL METALS LIMITED,RCM
+BCC.AX,Technology Hardware & Equipment,low_pe_absolute,overall,44,pe,2.0500002,,BEAM COMMUNICATIONS HOLDINGS LIMITED,BCC
+DAI.AX,"Food, Beverage & Tobacco",low_pe_absolute,overall,45,pe,2.064516,,DECIDR AI INDUSTRIES LTD,DAI
+NMT.AX,Materials,low_pe_absolute,overall,46,pe,2.1333334,,NEOMETALS LTD,NMT
+KSN.AX,Materials,low_pe_absolute,overall,47,pe,2.2083333,,KINGSTON RESOURCES LIMITED,KSN
+OEQ.AX,Financial Services,low_pe_absolute,overall,48,pe,2.3125,,ORION EQUITIES LIMITED,OEQ
+IRD.AX,Materials,low_pe_absolute,overall,49,pe,2.4,,IRON ROAD LIMITED,IRD
+HGO.AX,Materials,low_pe_absolute,overall,50,pe,2.423543,,HILLGROVE RESOURCES LIMITED,HGO

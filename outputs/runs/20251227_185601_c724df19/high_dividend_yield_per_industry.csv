@@ -1,0 +1,51 @@
+ticker,industry,strategy,mode,rank,metric_name,metric_value,industry_avg,company_name,asx_code
+AOV.AX,Automobiles & Components,high_dividend_yield,per_industry,1,dividend_yield,5.02,3.138,AMOTIV LIMITED,AOV
+SFC.AX,Automobiles & Components,high_dividend_yield,per_industry,2,dividend_yield,4.5,3.138,SCHAFFER CORPORATION LIMITED,SFC
+BFL.AX,Banks,high_dividend_yield,per_industry,1,dividend_yield,7.49,5.071,BSP FINANCIAL GROUP LIMITED,BFL
+KSL.AX,Banks,high_dividend_yield,per_industry,2,dividend_yield,7.29,5.071,KINA SECURITIES LIMITED,KSL
+HNG.AX,Capital Goods,high_dividend_yield,per_industry,1,dividend_yield,9.09,3.1151219512195123,HANCOCK & GORE LTD,HNG
+AAL.AX,Capital Goods,high_dividend_yield,per_industry,2,dividend_yield,8.4,3.1151219512195123,ALFABS AUSTRALIA LIMITED,AAL
+DGT.AX,Class Pend,high_dividend_yield,per_industry,1,dividend_yield,3.82,3.82,DIGICO INFRASTRUCTURE REIT,DGT
+IPH.AX,Commercial & Professional Services,high_dividend_yield,per_industry,1,dividend_yield,10.46,4.534666666666666,IPH LIMITED,IPH
+IGN.AX,Commercial & Professional Services,high_dividend_yield,per_industry,2,dividend_yield,9.86,4.534666666666666,IGNITE LIMITED,IGN
+STP.AX,Consumer Discretionary Distribution & Retail,high_dividend_yield,per_industry,1,dividend_yield,19.43,4.701923076923077,STEP ONE CLOTHING LIMITED,STP
+DSK.AX,Consumer Discretionary Distribution & Retail,high_dividend_yield,per_industry,2,dividend_yield,8.97,4.701923076923077,DUSK GROUP LIMITED,DSK
+ATP.AX,Consumer Durables & Apparel,high_dividend_yield,per_industry,1,dividend_yield,14.36,7.268571428571428,ATLAS PEARLS LTD,ATP
+FWD.AX,Consumer Durables & Apparel,high_dividend_yield,per_industry,2,dividend_yield,10.59,7.268571428571428,FLEETWOOD LIMITED,FWD
+NDO.AX,Consumer Services,high_dividend_yield,per_industry,1,dividend_yield,13.04,4.026521739130435,NIDO EDUCATION LIMITED,NDO
+EVO.AX,Consumer Services,high_dividend_yield,per_industry,2,dividend_yield,9.76,4.026521739130435,EMBARK EARLY EDUCATION LIMITED,EVO
+MTS.AX,Consumer Staples Distribution & Retail,high_dividend_yield,per_industry,1,dividend_yield,5.17,4.066000000000001,METCASH LIMITED,MTS
+EDV.AX,Consumer Staples Distribution & Retail,high_dividend_yield,per_industry,2,dividend_yield,5.11,4.066000000000001,ENDEAVOUR GROUP LIMITED,EDV
+OEL.AX,Energy,high_dividend_yield,per_industry,1,dividend_yield,146.0,20.23428571428571,OTTO ENERGY LIMITED,OEL
+TER.AX,Energy,high_dividend_yield,per_industry,2,dividend_yield,46.51,20.23428571428571,TERRACOM LIMITED,TER
+AOF.AX,Equity Real Estate Investment Trusts (REITs),high_dividend_yield,per_industry,1,dividend_yield,17.75,5.953783783783783,AUSTRALIAN UNITY OFFICE FUND,AOF
+HCW.AX,Equity Real Estate Investment Trusts (REITs),high_dividend_yield,per_industry,2,dividend_yield,11.23,5.953783783783783,HEALTHCO HEALTHCARE AND WELLNESS REIT,HCW
+QFE.AX,Financial Services,high_dividend_yield,per_industry,1,dividend_yield,100.0,6.85811320754717,QUICKFEE LIMITED,QFE
+EZL.AX,Financial Services,high_dividend_yield,per_industry,2,dividend_yield,16.06,6.85811320754717,EUROZ HARTLEYS GROUP LIMITED,EZL
+ING.AX,"Food, Beverage & Tobacco",high_dividend_yield,per_industry,1,dividend_yield,7.76,3.761677777777778,INGHAMS GROUP LIMITED,ING
+TWE.AX,"Food, Beverage & Tobacco",high_dividend_yield,per_industry,2,dividend_yield,7.42,3.761677777777778,TREASURY WINE ESTATES LIMITED,TWE
+MVF.AX,Health Care Equipment & Services,high_dividend_yield,per_industry,1,dividend_yield,7.07,2.566666666666667,MONASH IVF GROUP LIMITED,MVF
+SHL.AX,Health Care Equipment & Services,high_dividend_yield,per_industry,2,dividend_yield,4.74,2.566666666666667,SONIC HEALTHCARE LIMITED,SHL
+S66.AX,Household & Personal Products,high_dividend_yield,per_industry,1,dividend_yield,1.48,1.48,STAR COMBO PHARMA LIMITED,S66
+TWR.AX,Insurance,high_dividend_yield,per_industry,1,dividend_yield,12.5,5.39,TOWER LIMITED,TWR
+CVW.AX,Insurance,high_dividend_yield,per_industry,2,dividend_yield,11.27,5.39,CLEARVIEW WEALTH LIMITED,CVW
+MTL.AX,Materials,high_dividend_yield,per_industry,1,dividend_yield,100.0,5.758823529411765,MANTLE MINERALS LIMITED,MTL
+MSV.AX,Materials,high_dividend_yield,per_industry,2,dividend_yield,23.38,5.758823529411765,MITCHELL SERVICES LIMITED,MSV
+GTN.AX,Media & Entertainment,high_dividend_yield,per_industry,1,dividend_yield,86.34,9.240625,GTN LIMITED,GTN
+NZM.AX,Media & Entertainment,high_dividend_yield,per_industry,2,dividend_yield,7.95,9.240625,NZME LIMITED,NZM
+HCF.AX,Not Applic,high_dividend_yield,per_industry,1,dividend_yield,114.29,7.15796875,H&G HIGH CONVICTION LIMITED,HCF
+NSC.AX,Not Applic,high_dividend_yield,per_industry,2,dividend_yield,12.99,7.15796875,NAOS SMALL CAP OPPORTUNITIES COMPANY LIMITED,NSC
+CTE.AX,"Pharmaceuticals, Biotechnology & Life Sciences",high_dividend_yield,per_industry,1,dividend_yield,9.88,3.3620000000000005,CRYOSITE LIMITED,CTE
+VLS.AX,"Pharmaceuticals, Biotechnology & Life Sciences",high_dividend_yield,per_industry,2,dividend_yield,3.54,3.3620000000000005,VITA LIFE SCIENCES LIMITED..,VLS
+CWP.AX,Real Estate Management & Development,high_dividend_yield,per_industry,1,dividend_yield,4.35,3.3199999999999994,CEDAR WOODS PROPERTIES LIMITED,CWP
+LLC.AX,Real Estate Management & Development,high_dividend_yield,per_industry,2,dividend_yield,4.35,3.3199999999999994,LENDLEASE GROUP,LLC
+LVE.AX,Software & Services,high_dividend_yield,per_industry,1,dividend_yield,26.09,4.515384615384615,LOVE GROUP GLOBAL LTD,LVE
+IRI.AX,Software & Services,high_dividend_yield,per_industry,2,dividend_yield,5.97,4.515384615384615,INTEGRATED RESEARCH LIMITED,IRI
+SEN.AX,Technology Hardware & Equipment,high_dividend_yield,per_industry,1,dividend_yield,10.11,4.885,SENETAS CORPORATION LIMITED,SEN
+DDR.AX,Technology Hardware & Equipment,high_dividend_yield,per_industry,2,dividend_yield,4.33,4.885,DICKER DATA LIMITED,DDR
+SPK.AX,Telecommunication Services,high_dividend_yield,per_industry,1,dividend_yield,11.06,5.756666666666667,SPARK NEW ZEALAND LIMITED,SPK
+CCG.AX,Telecommunication Services,high_dividend_yield,per_industry,2,dividend_yield,7.51,5.756666666666667,COMMS GROUP LTD,CCG
+ALX.AX,Transportation,high_dividend_yield,per_industry,1,dividend_yield,8.06,3.919411764705882,ATLAS ARTERIA,ALX
+WWG.AX,Transportation,high_dividend_yield,per_industry,2,dividend_yield,5.45,3.919411764705882,WISEWAY GROUP LIMITED,WWG
+TPC.AX,Utilities,high_dividend_yield,per_industry,1,dividend_yield,6.59,4.653333333333332,TPC CONSOLIDATED LIMITED,TPC
+APA.AX,Utilities,high_dividend_yield,per_industry,2,dividend_yield,6.16,4.653333333333332,APA GROUP,APA

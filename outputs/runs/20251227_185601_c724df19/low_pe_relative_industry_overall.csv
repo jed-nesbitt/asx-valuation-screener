@@ -1,0 +1,51 @@
+ticker,industry,strategy,mode,rank,metric_name,metric_value,industry_avg,company_name,asx_code
+CLZ.AX,Materials,low_pe_relative_industry,overall,1,pe_relative,3.7683628046209465e-05,,CLASSIC MINERALS LTD,CLZ
+SVG.AX,Materials,low_pe_relative_industry,overall,2,pe_relative,0.00029361827837156337,,SAVANNAH GOLDFIELDS LIMITED,SVG
+EM2.AX,Materials,low_pe_relative_industry,overall,3,pe_relative,0.0006141035819777809,,EAGLE MOUNTAIN MINING LIMITED,EM2
+CAN.AX,"Pharmaceuticals, Biotechnology & Life Sciences",low_pe_relative_industry,overall,4,pe_relative,0.0007921911048902519,,CANN GROUP LIMITED,CAN
+RAN.AX,Materials,low_pe_relative_industry,overall,5,pe_relative,0.0008882569793729304,,RANGE INTERNATIONAL LIMITED,RAN
+IDA.AX,Materials,low_pe_relative_industry,overall,6,pe_relative,0.004974238537322126,,INDIANA RESOURCES LIMITED,IDA
+EWC.AX,Utilities,low_pe_relative_industry,overall,7,pe_relative,0.005498338314722188,,ENERGY WORLD CORPORATION LTD,EWC
+BDM.AX,Materials,low_pe_relative_industry,overall,8,pe_relative,0.005872365981951178,,BURGUNDY DIAMOND MINES LIMITED,BDM
+KNM.AX,Media & Entertainment,low_pe_relative_industry,overall,9,pe_relative,0.0072336870173422396,,KNEOMEDIA LIMITED,KNM
+MRC.AX,Materials,low_pe_relative_industry,overall,10,pe_relative,0.007698227126930737,,MINERAL COMMODITIES LTD,MRC
+BCB.AX,Materials,low_pe_relative_industry,overall,11,pe_relative,0.010687910959472777,,BOWEN COKING COAL LIMITED,BCB
+MVL.AX,Materials,low_pe_relative_industry,overall,12,pe_relative,0.011053864890119969,,MARVEL GOLD LIMITED,MVL
+AJX.AX,Materials,low_pe_relative_industry,overall,13,pe_relative,0.012435597379605097,,ALEXIUM INTERNATIONAL GROUP LIMITED,AJX
+ILA.AX,"Pharmaceuticals, Biotechnology & Life Sciences",low_pe_relative_industry,overall,14,pe_relative,0.012444225789440759,,ISLAND PHARMACEUTICALS LIMITED,ILA
+BNL.AX,Energy,low_pe_relative_industry,overall,15,pe_relative,0.013600274999549349,,BLUE STAR HELIUM LIMITED,BNL
+ANR.AX,"Pharmaceuticals, Biotechnology & Life Sciences",low_pe_relative_industry,overall,16,pe_relative,0.015843823682187404,,ANATARA LIFESCIENCES LTD,ANR
+MSI.AX,Capital Goods,low_pe_relative_industry,overall,17,pe_relative,0.016488288645212148,,MULTISTACK INTERNATIONAL LIMITED,MSI
+VBX.AX,Materials,low_pe_relative_industry,overall,18,pe_relative,0.01826212927303431,,VBX LIMITED,VBX
+BSX.AX,Materials,low_pe_relative_industry,overall,19,pe_relative,0.01906791598206115,,BLACKSTONE MINERALS LIMITED,BSX
+IR1.AX,Materials,low_pe_relative_industry,overall,20,pe_relative,0.0196896958510414,,IRIS METALS LIMITED,IR1
+AZ9.AX,Materials,low_pe_relative_industry,overall,21,pe_relative,0.02279859519594268,,ASIAN BATTERY METALS PLC,AZ9
+LU7.AX,Materials,low_pe_relative_industry,overall,22,pe_relative,0.024871194759210194,,LITHIUM UNIVERSE LIMITED,LU7
+NOR.AX,Software & Services,low_pe_relative_industry,overall,23,pe_relative,0.025031216510400862,,NORWOOD SYSTEMS LIMITED,NOR
+X2M.AX,Technology Hardware & Equipment,low_pe_relative_industry,overall,24,pe_relative,0.02600550483013197,,X2M CONNECT LIMITED,X2M
+DTI.AX,Technology Hardware & Equipment,low_pe_relative_industry,overall,25,pe_relative,0.028606055313145168,,DTI GROUP LTD,DTI
+BKT.AX,Materials,low_pe_relative_industry,overall,26,pe_relative,0.02901639595834479,,BLACK ROCK MINING LIMITED,BKT
+CLG.AX,Commercial & Professional Services,low_pe_relative_industry,overall,27,pe_relative,0.032552269621159514,,CLOSE THE LOOP LTD.,CLG
+RTR.AX,Materials,low_pe_relative_industry,overall,28,pe_relative,0.03427760704571685,,RUMBLE RESOURCES LIMITED,RTR
+CCG.AX,Telecommunication Services,low_pe_relative_industry,overall,29,pe_relative,0.03556831210759664,,COMMS GROUP LTD,CCG
+DCC.AX,Software & Services,low_pe_relative_industry,overall,30,pe_relative,0.03575887817493851,,DIGITALX LIMITED,DCC
+GW1.AX,Materials,low_pe_relative_industry,overall,31,pe_relative,0.041451991265350326,,GREENWING RESOURCES LTD,GW1
+RCM.AX,Materials,low_pe_relative_industry,overall,32,pe_relative,0.041451991265350326,,RAPID CRITICAL METALS LIMITED,RCM
+NMT.AX,Materials,low_pe_relative_industry,overall,33,pe_relative,0.044215458731440054,,NEOMETALS LTD,NMT
+KSN.AX,Materials,low_pe_relative_industry,overall,34,pe_relative,0.045769906331291126,,KINGSTON RESOURCES LIMITED,KSN
+BPH.AX,Financial Services,low_pe_relative_industry,overall,35,pe_relative,0.04657454853155339,,BPH ENERGY LTD,BPH
+IRD.AX,Materials,low_pe_relative_industry,overall,36,pe_relative,0.04974238951842039,,IRON ROAD LIMITED,IRD
+HGO.AX,Materials,low_pe_relative_industry,overall,37,pe_relative,0.05023034163360046,,HILLGROVE RESOURCES LIMITED,HGO
+G6M.AX,Materials,low_pe_relative_industry,overall,38,pe_relative,0.051814989081687905,,GROUP 6 METALS LIMITED,G6M
+AVD.AX,Commercial & Professional Services,low_pe_relative_industry,overall,39,pe_relative,0.053138015288281736,,AVADA GROUP LIMITED,AVD
+ADN.AX,Materials,low_pe_relative_industry,overall,40,pe_relative,0.05388759071755498,,ANDROMEDA METALS LIMITED,ADN
+OBL.AX,Financial Services,low_pe_relative_industry,overall,41,pe_relative,0.05490496077354924,,OMNI BRIDGEWAY LIMITED,OBL
+MM8.AX,Materials,low_pe_relative_industry,overall,42,pe_relative,0.05862034073128291,,MEDALLION METALS LIMITED.,MM8
+AGY.AX,Materials,low_pe_relative_industry,overall,43,pe_relative,0.06476873635210988,,ARGOSY MINERALS LIMITED,AGY
+SFX.AX,Materials,low_pe_relative_industry,overall,44,pe_relative,0.06594173651053852,,SHEFFIELD RESOURCES LIMITED,SFX
+MFD.AX,Consumer Services,low_pe_relative_industry,overall,45,pe_relative,0.06621444424371897,,MAYFIELD CHILDCARE LIMITED,MFD
+TIA.AX,Real Estate Management & Development,low_pe_relative_industry,overall,46,pe_relative,0.07006471133900653,,TIAN AN AUSTRALIA LIMITED,TIA
+KBC.AX,Financial Services,low_pe_relative_industry,overall,47,pe_relative,0.07296678959446375,,KEYBRIDGE CAPITAL LIMITED,KBC
+AEU.AX,Materials,low_pe_relative_industry,overall,48,pe_relative,0.07383635944140526,,ATOMIC EAGLE LTD,AEU
+AFA.AX,Financial Services,low_pe_relative_industry,overall,49,pe_relative,0.07451927765048544,,ASF GROUP LIMITED,AFA
+MMI.AX,Materials,low_pe_relative_industry,overall,50,pe_relative,0.07461358427763058,,METRO MINING LIMITED,MMI

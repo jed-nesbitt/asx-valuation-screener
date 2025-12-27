@@ -1,0 +1,52 @@
+ticker,industry,strategy,mode,rank,metric_name,metric_value,industry_avg,company_name,asx_code
+VMT.AX,Automobiles & Components,low_pe_relative_industry,per_industry,1,pe_relative,0.08470292996469729,20.365293157142855,VMOTO LIMITED,VMT
+RPM.AX,Automobiles & Components,low_pe_relative_industry,per_industry,2,pe_relative,0.12766818920493098,20.365293157142855,RPM AUTOMOTIVE GROUP LIMITED,RPM
+KSL.AX,Banks,low_pe_relative_industry,per_industry,1,pe_relative,0.42933115809362843,20.380538041666668,KINA SECURITIES LIMITED,KSL
+BFL.AX,Banks,low_pe_relative_industry,per_industry,2,pe_relative,0.4906641806784325,20.380538041666668,BSP FINANCIAL GROUP LIMITED,BFL
+MSI.AX,Capital Goods,low_pe_relative_industry,per_industry,1,pe_relative,0.016488288645212148,30.32455403703704,MULTISTACK INTERNATIONAL LIMITED,MSI
+BOL.AX,Capital Goods,low_pe_relative_industry,per_industry,2,pe_relative,0.09892973187127288,30.32455403703704,BOOM LOGISTICS LIMITED,BOL
+DGT.AX,Class Pend,low_pe_relative_industry,per_industry,1,pe_relative,1.0,52.792652,DIGICO INFRASTRUCTURE REIT,DGT
+CLG.AX,Commercial & Professional Services,low_pe_relative_industry,per_industry,1,pe_relative,0.032552269621159514,29.273872792592595,CLOSE THE LOOP LTD.,CLG
+AVD.AX,Commercial & Professional Services,low_pe_relative_industry,per_industry,2,pe_relative,0.053138015288281736,29.273872792592595,AVADA GROUP LIMITED,AVD
+NTD.AX,Consumer Discretionary Distribution & Retail,low_pe_relative_industry,per_industry,1,pe_relative,0.10632524938383295,27.039673235294117,NTAW HOLDINGS LIMITED,NTD
+STP.AX,Consumer Discretionary Distribution & Retail,low_pe_relative_industry,per_industry,2,pe_relative,0.1849134771892747,27.039673235294117,STEP ONE CLOTHING LIMITED,STP
+AMS.AX,Consumer Durables & Apparel,low_pe_relative_industry,per_industry,1,pe_relative,0.09196547537716945,14.135740555555556,ATOMOS LIMITED,AMS
+ATP.AX,Consumer Durables & Apparel,low_pe_relative_industry,per_industry,2,pe_relative,0.2758963978344412,14.135740555555556,ATLAS PEARLS LTD,ATP
+MFD.AX,Consumer Services,low_pe_relative_industry,per_industry,1,pe_relative,0.06621444424371897,45.30733489142857,MAYFIELD CHILDCARE LIMITED,MFD
+RFG.AX,Consumer Services,low_pe_relative_industry,per_industry,2,pe_relative,0.1481509057216664,45.30733489142857,RETAIL FOOD GROUP LIMITED,RFG
+MTS.AX,Consumer Staples Distribution & Retail,low_pe_relative_industry,per_industry,1,pe_relative,0.4834433364243925,26.174415999999997,METCASH LIMITED,MTS
+EDV.AX,Consumer Staples Distribution & Retail,low_pe_relative_industry,per_industry,2,pe_relative,0.5858137961893783,26.174415999999997,ENDEAVOUR GROUP LIMITED,EDV
+BNL.AX,Energy,low_pe_relative_industry,per_industry,1,pe_relative,0.013600274999549349,22.05837749677419,BLUE STAR HELIUM LIMITED,BNL
+VEN.AX,Energy,low_pe_relative_industry,per_industry,2,pe_relative,0.09066849999699567,22.05837749677419,VINTAGE ENERGY LTD,VEN
+APW.AX,Equity Real Estate Investment Trusts (REITs),low_pe_relative_industry,per_industry,1,pe_relative,0.11149491517989983,23.56267634054054,AIMS PROPERTY SECURITIES FUND,APW
+ASK.AX,Equity Real Estate Investment Trusts (REITs),low_pe_relative_industry,per_industry,2,pe_relative,0.2980445386807403,23.56267634054054,ABACUS STORAGE KING,ASK
+BPH.AX,Financial Services,low_pe_relative_industry,per_industry,1,pe_relative,0.04657454853155339,21.470954234210527,BPH ENERGY LTD,BPH
+OBL.AX,Financial Services,low_pe_relative_industry,per_industry,2,pe_relative,0.05490496077354924,21.470954234210527,OMNI BRIDGEWAY LIMITED,OBL
+WNX.AX,"Food, Beverage & Tobacco",low_pe_relative_industry,per_industry,1,pe_relative,0.12102292501486617,15.038472254545455,WELLNEX LIFE LIMITED,WNX
+DAI.AX,"Food, Beverage & Tobacco",low_pe_relative_industry,per_industry,2,pe_relative,0.13728229603748407,15.038472254545455,DECIDR AI INDUSTRIES LTD,DAI
+FCG.AX,Health Care Equipment & Services,low_pe_relative_industry,per_industry,1,pe_relative,0.08025893951979485,46.10078356551724,FREEDOM CARE GROUP HOLDINGS LIMITED,FCG
+VIT.AX,Health Care Equipment & Services,low_pe_relative_industry,per_industry,2,pe_relative,0.1323188008579255,46.10078356551724,VITURA HEALTH LIMITED,VIT
+PTL.AX,Household & Personal Products,low_pe_relative_industry,per_industry,1,pe_relative,0.30486008746727516,3.772222233333333,PRESTAL HOLDINGS LIMITED,PTL
+MCP.AX,Household & Personal Products,low_pe_relative_industry,per_industry,2,pe_relative,1.0382916110801426,3.772222233333333,MCPHERSON'S LIMITED,MCP
+TWR.AX,Insurance,low_pe_relative_industry,per_industry,1,pe_relative,0.43456141421835487,20.077712181818182,TOWER LIMITED,TWR
+QBE.AX,Insurance,low_pe_relative_industry,per_industry,2,pe_relative,0.49355962025264066,20.077712181818182,QBE INSURANCE GROUP LIMITED,QBE
+CLZ.AX,Materials,low_pe_relative_industry,per_industry,1,pe_relative,3.7683628046209465e-05,48.2485868337958,CLASSIC MINERALS LTD,CLZ
+SVG.AX,Materials,low_pe_relative_industry,per_industry,2,pe_relative,0.00029361827837156337,48.2485868337958,SAVANNAH GOLDFIELDS LIMITED,SVG
+KNM.AX,Media & Entertainment,low_pe_relative_industry,per_industry,1,pe_relative,0.0072336870173422396,27.648420441818185,KNEOMEDIA LIMITED,KNM
+A1N.AX,Media & Entertainment,low_pe_relative_industry,per_industry,2,pe_relative,0.22868559212289696,27.648420441818185,ARN MEDIA LIMITED,A1N
+AIQ.AX,Not Applic,low_pe_relative_industry,per_industry,1,pe_relative,0.1490238746341772,17.934893362295085,ALTERNATIVE INVESTMENT TRUST,AIQ
+LSX.AX,Not Applic,low_pe_relative_industry,per_industry,2,pe_relative,0.20444317264291698,17.934893362295085,LION SELECTION GROUP LIMITED.,LSX
+CAN.AX,"Pharmaceuticals, Biotechnology & Life Sciences",low_pe_relative_industry,per_industry,1,pe_relative,0.0007921911048902519,37.8696463704375,CANN GROUP LIMITED,CAN
+ILA.AX,"Pharmaceuticals, Biotechnology & Life Sciences",low_pe_relative_industry,per_industry,2,pe_relative,0.012444225789440759,37.8696463704375,ISLAND PHARMACEUTICALS LIMITED,ILA
+TIA.AX,Real Estate Management & Development,low_pe_relative_industry,per_industry,1,pe_relative,0.07006471133900653,22.836030712499998,TIAN AN AUSTRALIA LIMITED,TIA
+ACU.AX,Real Estate Management & Development,low_pe_relative_industry,per_industry,2,pe_relative,0.32842837682358894,22.836030712499998,ACUMENTIS GROUP LIMITED,ACU
+NOR.AX,Software & Services,low_pe_relative_industry,per_industry,1,pe_relative,0.025031216510400862,55.93016621538462,NORWOOD SYSTEMS LIMITED,NOR
+DCC.AX,Software & Services,low_pe_relative_industry,per_industry,2,pe_relative,0.03575887817493851,55.93016621538462,DIGITALX LIMITED,DCC
+X2M.AX,Technology Hardware & Equipment,low_pe_relative_industry,per_industry,1,pe_relative,0.02600550483013197,19.22669847272727,X2M CONNECT LIMITED,X2M
+DTI.AX,Technology Hardware & Equipment,low_pe_relative_industry,per_industry,2,pe_relative,0.028606055313145168,19.22669847272727,DTI GROUP LTD,DTI
+CCG.AX,Telecommunication Services,low_pe_relative_industry,per_industry,1,pe_relative,0.03556831210759664,185.5584257142857,COMMS GROUP LTD,CCG
+SPK.AX,Telecommunication Services,low_pe_relative_industry,per_industry,2,pe_relative,0.08824713799422651,185.5584257142857,SPARK NEW ZEALAND LIMITED,SPK
+AQZ.AX,Transportation,low_pe_relative_industry,per_industry,1,pe_relative,0.09178586863434243,37.67827609473684,ALLIANCE AVIATION SERVICES LIMITED,AQZ
+VGN.AX,Transportation,low_pe_relative_industry,per_industry,2,pe_relative,0.14331865891163503,37.67827609473684,VIRGIN AUSTRALIA HOLDINGS LIMITED.,VGN
+EWC.AX,Utilities,low_pe_relative_industry,per_industry,1,pe_relative,0.005498338314722188,50.28256796416667,ENERGY WORLD CORPORATION LTD,EWC
+AGL.AX,Utilities,low_pe_relative_industry,per_industry,2,pe_relative,0.20274366271955283,50.28256796416667,AGL ENERGY LIMITED.,AGL

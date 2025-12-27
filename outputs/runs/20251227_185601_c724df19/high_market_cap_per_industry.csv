@@ -1,0 +1,55 @@
+ticker,industry,strategy,mode,rank,metric_name,metric_value,industry_avg,company_name,asx_code
+ARB.AX,Automobiles & Components,high_market_cap,per_industry,1,market_cap,2657221632.0,508787324.3,ARB CORPORATION LIMITED.,ARB
+AOV.AX,Automobiles & Components,high_market_cap,per_industry,2,market_cap,1172525696.0,508787324.3,AMOTIV LIMITED,AOV
+CBA.AX,Banks,high_market_cap,per_industry,1,market_cap,269843873792.0,54980874355.5,COMMONWEALTH BANK OF AUSTRALIA.,CBA
+WBC.AX,Banks,high_market_cap,per_industry,2,market_cap,133795659776.0,54980874355.5,WESTPAC BANKING CORPORATION,WBC
+SGH.AX,Capital Goods,high_market_cap,per_industry,1,market_cap,19177754624.0,1213636847.2837837,SGH LIMITED,SGH
+IFT.AX,Capital Goods,high_market_cap,per_industry,2,market_cap,10081124352.0,1213636847.2837837,INFRATIL LIMITED.,IFT
+DGT.AX,Class Pend,high_market_cap,per_industry,1,market_cap,1527671424.0,689353640.0,DIGICO INFRASTRUCTURE REIT,DGT
+AEM.AX,Class Pend,high_market_cap,per_industry,2,market_cap,501456640.0,689353640.0,ADVANCED ENERGY MINERALS LTD,AEM
+BXB.AX,Commercial & Professional Services,high_market_cap,per_industry,1,market_cap,31071621120.0,1825114024.5555556,BRAMBLES LIMITED,BXB
+CPU.AX,Commercial & Professional Services,high_market_cap,per_industry,2,market_cap,20114952192.0,1825114024.5555556,COMPUTERSHARE LIMITED.,CPU
+WES.AX,Consumer Discretionary Distribution & Retail,high_market_cap,per_industry,1,market_cap,92593651712.0,3754124039.105263,WESFARMERS LIMITED,WES
+JBH.AX,Consumer Discretionary Distribution & Retail,high_market_cap,per_industry,2,market_cap,10560569344.0,3754124039.105263,JB HI-FI LIMITED,JBH
+BRG.AX,Consumer Durables & Apparel,high_market_cap,per_industry,1,market_cap,4321861120.0,361740499.8666667,BREVILLE GROUP LIMITED,BRG
+FWD.AX,Consumer Durables & Apparel,high_market_cap,per_industry,2,market_cap,236081792.0,361740499.8666667,FLEETWOOD LIMITED,FWD
+ALL.AX,Consumer Services,high_market_cap,per_industry,1,market_cap,35500974080.0,1974605084.0232558,ARISTOCRAT LEISURE LIMITED,ALL
+LNW.AX,Consumer Services,high_market_cap,per_industry,2,market_cap,13429537792.0,1974605084.0232558,LIGHT & WONDER INC.,LNW
+WOW.AX,Consumer Staples Distribution & Retail,high_market_cap,per_industry,1,market_cap,35792855040.0,12699259824.666666,WOOLWORTHS GROUP LIMITED,WOW
+COL.AX,Consumer Staples Distribution & Retail,high_market_cap,per_industry,2,market_cap,28587548672.0,12699259824.666666,COLES GROUP LIMITED.,COL
+WDS.AX,Energy,high_market_cap,per_industry,1,market_cap,44029480960.0,990086767.4918033,WOODSIDE ENERGY GROUP LTD,WDS
+STO.AX,Energy,high_market_cap,per_industry,2,market_cap,19811414016.0,990086767.4918033,SANTOS LIMITED,STO
+GMG.AX,Equity Real Estate Investment Trusts (REITs),high_market_cap,per_industry,1,market_cap,64717701120.0,4922174416.102564,GOODMAN GROUP,GMG
+SCG.AX,Equity Real Estate Investment Trusts (REITs),high_market_cap,per_industry,2,market_cap,21856788480.0,4922174416.102564,SCENTRE GROUP,SCG
+MQG.AX,Financial Services,high_market_cap,per_industry,1,market_cap,78970585088.0,2454091139.9375,MACQUARIE GROUP LIMITED,MQG
+XYZ.AX,Financial Services,high_market_cap,per_industry,2,market_cap,60112273408.0,2454091139.9375,"BLOCK, INC.",XYZ
+A2M.AX,"Food, Beverage & Tobacco",high_market_cap,per_industry,1,market_cap,6697177088.0,572459881.0,THE A2 MILK COMPANY LIMITED,A2M
+TWE.AX,"Food, Beverage & Tobacco",high_market_cap,per_industry,2,market_cap,4352086528.0,572459881.0,TREASURY WINE ESTATES LIMITED,TWE
+RMD.AX,Health Care Equipment & Services,high_market_cap,per_industry,1,market_cap,52868993024.0,2427579911.308642,RESMED INC,RMD
+SIG.AX,Health Care Equipment & Services,high_market_cap,per_industry,2,market_cap,34273763328.0,2427579911.308642,SIGMA HEALTHCARE LIMITED,SIG
+BIO.AX,Household & Personal Products,high_market_cap,per_industry,1,market_cap,95721968.0,30422606.272727273,BIOME AUSTRALIA LIMITED,BIO
+BXN.AX,Household & Personal Products,high_market_cap,per_industry,2,market_cap,93468008.0,30422606.272727273,BIOXYNE LIMITED,BXN
+QBE.AX,Insurance,high_market_cap,per_industry,1,market_cap,29781082112.0,8818095437.09091,QBE INSURANCE GROUP LIMITED,QBE
+SUN.AX,Insurance,high_market_cap,per_industry,2,market_cap,19157696512.0,8818095437.09091,SUNCORP GROUP LIMITED,SUN
+RIO.AX,Materials,high_market_cap,per_industry,1,market_cap,239761031168.0,1542163342.4635417,RIO TINTO LIMITED,RIO
+BHP.AX,Materials,high_market_cap,per_industry,2,market_cap,231668006912.0,1542163342.4635417,BHP GROUP LIMITED,BHP
+NWS.AX,Media & Entertainment,high_market_cap,per_industry,1,market_cap,25001052160.0,1783688547.1162791,NEWS CORPORATION..,NWS
+REA.AX,Media & Entertainment,high_market_cap,per_industry,2,market_cap,24355809280.0,1783688547.1162791,REA GROUP LTD,REA
+AFT.AX,Not Applic,high_market_cap,per_industry,1,market_cap,1647536569843712.0,20855595703185.113,AFG 2023-1 TRUST IN RESPECT OF SERIES 2023-1,AFT
+AFI.AX,Not Applic,high_market_cap,per_industry,2,market_cap,8958832640.0,20855595703185.113,AUSTRALIAN FOUNDATION INVESTMENT COMPANY LIMITED,AFI
+CSL.AX,"Pharmaceuticals, Biotechnology & Life Sciences",high_market_cap,per_industry,1,market_cap,83193757696.0,1247146482.7951808,CSL LIMITED,CSL
+TLX.AX,"Pharmaceuticals, Biotechnology & Life Sciences",high_market_cap,per_industry,2,market_cap,3979874304.0,1247146482.7951808,TELIX PHARMACEUTICALS LIMITED,TLX
+LLC.AX,Real Estate Management & Development,high_market_cap,per_industry,1,market_cap,3653527296.0,643154136.3043479,LENDLEASE GROUP,LLC
+PXA.AX,Real Estate Management & Development,high_market_cap,per_industry,2,market_cap,2424265216.0,643154136.3043479,PEXA GROUP LIMITED,PXA
+WBT.AX,Semiconductors & Semiconductor Equipment,high_market_cap,per_industry,1,market_cap,1027295936.0,292188499.5,WEEBIT NANO LTD,WBT
+AXE.AX,Semiconductors & Semiconductor Equipment,high_market_cap,per_industry,2,market_cap,86647984.0,292188499.5,ARCHER MATERIALS LIMITED,AXE
+WTC.AX,Software & Services,high_market_cap,per_industry,1,market_cap,23108923392.0,863769674.1203704,WISETECH GLOBAL LIMITED,WTC
+XRO.AX,Software & Services,high_market_cap,per_industry,2,market_cap,19568910336.0,863769674.1203704,XERO LIMITED,XRO
+CDA.AX,Technology Hardware & Equipment,high_market_cap,per_industry,1,market_cap,5285108224.0,373871598.56,CODAN LIMITED,CDA
+DDR.AX,Technology Hardware & Equipment,high_market_cap,per_industry,2,market_cap,1837109376.0,373871598.56,DICKER DATA LIMITED,DDR
+TLS.AX,Telecommunication Services,high_market_cap,per_industry,1,market_cap,54586445824.0,5875705715.923077,TELSTRA GROUP LIMITED,TLS
+TPG.AX,Telecommunication Services,high_market_cap,per_industry,2,market_cap,7557662720.0,5875705715.923077,TPG TELECOM LIMITED.,TPG
+TCL.AX,Transportation,high_market_cap,per_industry,1,market_cap,45039886336.0,4451505342.166667,TRANSURBAN GROUP,TCL
+QAN.AX,Transportation,high_market_cap,per_industry,2,market_cap,15555687424.0,4451505342.166667,QANTAS AIRWAYS LIMITED,QAN
+ORG.AX,Utilities,high_market_cap,per_industry,1,market_cap,19518730240.0,3690147482.631579,ORIGIN ENERGY LIMITED,ORG
+MEZ.AX,Utilities,high_market_cap,per_industry,2,market_cap,12738251776.0,3690147482.631579,MERIDIAN ENERGY LIMITED,MEZ

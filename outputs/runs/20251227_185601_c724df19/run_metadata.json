@@ -1,0 +1,43 @@
+{
+  "base_out_dir": "outputs",
+  "config": {
+    "asx_listed_companies_csv": "data\\ASXListedCompanies.csv",
+    "cache_enabled": false,
+    "cache_path": "outputs\\yf_info_cache.parquet",
+    "industry_avg_pe_csv": "industry_average_pe.csv",
+    "max_tickers": null,
+    "out_dir": "outputs",
+    "strategies": [
+      "StrategySpec(name='low_pe_relative_industry', top_overall=50, top_per_industry=2)",
+      "StrategySpec(name='low_pe_absolute', top_overall=50, top_per_industry=2)",
+      "StrategySpec(name='high_market_cap', top_overall=50, top_per_industry=2)",
+      "StrategySpec(name='high_eps', top_overall=50, top_per_industry=2)",
+      "StrategySpec(name='high_dividend_yield', top_overall=50, top_per_industry=2)"
+    ],
+    "tickers_only_csv": "tickers.csv",
+    "tickers_with_strategy_csv": "tickers_with_strategy.csv"
+  },
+  "counts": {
+    "selected_rows": 510,
+    "tickers_loaded": 1985
+  },
+  "duration_seconds": 2305.277,
+  "end_utc": "2025-12-27T08:34:26.907950+00:00",
+  "environment": {
+    "hostname": "LAPTOP-JD67DCF4",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "python_version": "3.12.10",
+    "user": "jed1n"
+  },
+  "output_files": [
+    "outputs\\runs\\20251227_185601_c724df19\\industry_average_pe.csv",
+    "outputs\\runs\\20251227_185601_c724df19\\tickers.csv",
+    "outputs\\runs\\20251227_185601_c724df19\\tickers_with_strategy_long.csv",
+    "outputs\\runs\\20251227_185601_c724df19\\tickers_with_strategy.csv"
+  ],
+  "run_dir": "outputs\\runs\\20251227_185601_c724df19",
+  "run_id": "20251227_185601_c724df19",
+  "start_local": "2025-12-27T18:56:01.631349+11:00",
+  "start_utc": "2025-12-27T07:56:01.631349+00:00",
+  "status": "success"
+}

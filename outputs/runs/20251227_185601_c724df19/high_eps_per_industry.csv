@@ -1,0 +1,55 @@
+ticker,industry,strategy,mode,rank,metric_name,metric_value,industry_avg,company_name,asx_code
+SFC.AX,Automobiles & Components,high_eps,per_industry,1,eps,1.79,0.24,SCHAFFER CORPORATION LIMITED,SFC
+ARB.AX,Automobiles & Components,high_eps,per_industry,2,eps,1.18,0.24,ARB CORPORATION LIMITED.,ARB
+CBA.AX,Banks,high_eps,per_industry,1,eps,6.05,1.1291666666666667,COMMONWEALTH BANK OF AUSTRALIA.,CBA
+NAB.AX,Banks,high_eps,per_industry,2,eps,2.21,1.1291666666666667,NATIONAL AUSTRALIA BANK LIMITED,NAB
+KOV.AX,Capital Goods,high_eps,per_industry,1,eps,1.11,0.11438356164383562,KORVEST LTD,KOV
+LYL.AX,Capital Goods,high_eps,per_industry,2,eps,1.06,0.11438356164383562,LYCOPODIUM LIMITED,LYL
+DGT.AX,Class Pend,high_eps,per_industry,1,eps,0.05228,-0.08747241666666668,DIGICO INFRASTRUCTURE REIT,DGT
+EQU.AX,Class Pend,high_eps,per_industry,2,eps,0.0,-0.08747241666666668,EQUUS ENERGY LIMITED,EQU
+CPU.AX,Commercial & Professional Services,high_eps,per_industry,1,eps,1.55,0.11954545454545457,COMPUTERSHARE LIMITED.,CPU
+MMS.AX,Commercial & Professional Services,high_eps,per_industry,2,eps,1.37,0.11954545454545457,MCMILLAN SHAKESPEARE LIMITED,MMS
+JBH.AX,Consumer Discretionary Distribution & Retail,high_eps,per_industry,1,eps,4.21,0.3576315789473684,JB HI-FI LIMITED,JBH
+WES.AX,Consumer Discretionary Distribution & Retail,high_eps,per_industry,2,eps,2.58,0.3576315789473684,WESFARMERS LIMITED,WES
+BRG.AX,Consumer Durables & Apparel,high_eps,per_industry,1,eps,0.93,0.125,BREVILLE GROUP LIMITED,BRG
+WAT.AX,Consumer Durables & Apparel,high_eps,per_industry,2,eps,0.27,0.125,WATERCO LIMITED,WAT
+LNW.AX,Consumer Services,high_eps,per_industry,1,eps,6.87,0.2671428571428572,LIGHT & WONDER INC.,LNW
+ALL.AX,Consumer Services,high_eps,per_industry,2,eps,1.89,0.2671428571428572,ARISTOCRAT LEISURE LIMITED,ALL
+COL.AX,Consumer Staples Distribution & Retail,high_eps,per_industry,1,eps,0.81,0.37833333333333335,COLES GROUP LIMITED.,COL
+WOW.AX,Consumer Staples Distribution & Retail,high_eps,per_industry,2,eps,0.79,0.37833333333333335,WOOLWORTHS GROUP LIMITED,WOW
+WDS.AX,Energy,high_eps,per_industry,1,eps,2.32,0.008264462809917354,WOODSIDE ENERGY GROUP LTD,WDS
+WHC.AX,Energy,high_eps,per_industry,2,eps,0.8,0.008264462809917354,WHITEHAVEN COAL LIMITED,WHC
+APW.AX,Equity Real Estate Investment Trusts (REITs),high_eps,per_industry,1,eps,1.18,0.18846153846153846,AIMS PROPERTY SECURITIES FUND,APW
+GMG.AX,Equity Real Estate Investment Trusts (REITs),high_eps,per_industry,2,eps,0.85,0.18846153846153846,GOODMAN GROUP,GMG
+MQG.AX,Financial Services,high_eps,per_industry,1,eps,10.98,0.3764804210526316,MACQUARIE GROUP LIMITED,MQG
+XYZ.AX,Financial Services,high_eps,per_industry,2,eps,7.47,0.3764804210526316,"BLOCK, INC.",XYZ
+FFI.AX,"Food, Beverage & Tobacco",high_eps,per_industry,1,eps,0.61,0.025625405405405404,FFI HOLDINGS LIMITED,FFI
+TWE.AX,"Food, Beverage & Tobacco",high_eps,per_industry,2,eps,0.54,0.025625405405405404,TREASURY WINE ESTATES LIMITED,TWE
+COH.AX,Health Care Equipment & Services,high_eps,per_industry,1,eps,5.95,0.08630390243902439,COCHLEAR LIMITED,COH
+RMD.AX,Health Care Equipment & Services,high_eps,per_industry,2,eps,1.47,0.08630390243902439,RESMED INC,RMD
+S66.AX,Household & Personal Products,high_eps,per_industry,1,eps,0.04,-0.011818181818181818,STAR COMBO PHARMA LIMITED,S66
+BIO.AX,Household & Personal Products,high_eps,per_industry,2,eps,0.0,-0.011818181818181818,BIOME AUSTRALIA LIMITED,BIO
+QBE.AX,Insurance,high_eps,per_industry,1,eps,1.99,0.6136363636363636,QBE INSURANCE GROUP LIMITED,QBE
+AUB.AX,Insurance,high_eps,per_industry,2,eps,1.53,0.6136363636363636,AUB GROUP LIMITED,AUB
+NEM.AX,Materials,high_eps,per_industry,1,eps,9.66,-0.06015879265091863,NEWMONT CORPORATION,NEM
+RIO.AX,Materials,high_eps,per_industry,2,eps,9.43,-0.06015879265091863,RIO TINTO LIMITED,RIO
+REA.AX,Media & Entertainment,high_eps,per_industry,1,eps,5.12,0.19119047619047622,REA GROUP LTD,REA
+NWS.AX,Media & Entertainment,high_eps,per_industry,2,eps,1.25,0.19119047619047622,NEWS CORPORATION..,NWS
+CIN.AX,Not Applic,high_eps,per_industry,1,eps,1.47,0.16875,CARLTON INVESTMENTS LIMITED,CIN
+MFF.AX,Not Applic,high_eps,per_industry,2,eps,0.74,0.16875,MFF CAPITAL INVESTMENTS LIMITED,MFF
+CSL.AX,"Pharmaceuticals, Biotechnology & Life Sciences",high_eps,per_industry,1,eps,9.26,0.04674698795180722,CSL LIMITED,CSL
+NEU.AX,"Pharmaceuticals, Biotechnology & Life Sciences",high_eps,per_industry,2,eps,1.14,0.04674698795180722,NEUREN PHARMACEUTICALS LIMITED,NEU
+CWP.AX,Real Estate Management & Development,high_eps,per_industry,1,eps,0.57,0.018095238095238095,CEDAR WOODS PROPERTIES LIMITED,CWP
+SRV.AX,Real Estate Management & Development,high_eps,per_industry,2,eps,0.53,0.018095238095238095,SERVCORP LIMITED,SRV
+4DS.AX,Semiconductors & Semiconductor Equipment,high_eps,per_industry,1,eps,-0.01,-0.0875,4DS MEMORY LIMITED,4DS
+AXE.AX,Semiconductors & Semiconductor Equipment,high_eps,per_industry,2,eps,-0.03,-0.0875,ARCHER MATERIALS LIMITED,AXE
+XRO.AX,Software & Services,high_eps,per_industry,1,eps,1.49,0.03380952380952381,XERO LIMITED,XRO
+MAQ.AX,Software & Services,high_eps,per_industry,2,eps,1.34,0.03380952380952381,MACQUARIE TECHNOLOGY GROUP LIMITED,MAQ
+CDA.AX,Technology Hardware & Equipment,high_eps,per_industry,1,eps,0.57,-0.05360000000000001,CODAN LIMITED,CDA
+DDR.AX,Technology Hardware & Equipment,high_eps,per_industry,2,eps,0.46,-0.05360000000000001,DICKER DATA LIMITED,DDR
+TLS.AX,Telecommunication Services,high_eps,per_industry,1,eps,0.19,0.025384615384615387,TELSTRA GROUP LIMITED,TLS
+SPK.AX,Telecommunication Services,high_eps,per_industry,2,eps,0.12,0.025384615384615387,SPARK NEW ZEALAND LIMITED,SPK
+QAN.AX,Transportation,high_eps,per_industry,1,eps,1.04,0.14958333333333335,QANTAS AIRWAYS LIMITED,QAN
+VGN.AX,Transportation,high_eps,per_industry,2,eps,0.65,0.14958333333333335,VIRGIN AUSTRALIA HOLDINGS LIMITED.,VGN
+ORG.AX,Utilities,high_eps,per_industry,1,eps,0.86,0.0605,ORIGIN ENERGY LIMITED,ORG
+CEN.AX,Utilities,high_eps,per_industry,2,eps,0.36,0.0605,CONTACT ENERGY LIMITED,CEN
